@@ -22,6 +22,7 @@ GEM
     powerpack (0.0.9)
     rainbow (2.0.0)
     rake (10.3.2)
+    rdoc (4.1.0)
     rubocop (0.23.0)
       json (>= 1.7.7, < 2)
       parser (~> 2.1.9)
@@ -41,5 +42,6 @@ PLATFORMS
 DEPENDENCIES
   cucumber
   rake
+  rdoc
   rubocop
   travis-lint

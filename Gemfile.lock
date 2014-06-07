@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    ast (2.0.0)
     builder (3.2.2)
     cucumber (1.3.15)
       builder (>= 2.1.2)
@@ -11,9 +12,23 @@ GEM
     diff-lcs (1.2.5)
     gherkin (2.12.2)
       multi_json (~> 1.3)
+    json (1.8.1)
     multi_json (1.10.1)
     multi_test (0.1.1)
+    parser (2.1.9)
+      ast (>= 1.1, < 3.0)
+      slop (~> 3.4, >= 3.4.5)
+    powerpack (0.0.9)
+    rainbow (2.0.0)
     rake (10.3.2)
+    rubocop (0.23.0)
+      json (>= 1.7.7, < 2)
+      parser (~> 2.1.9)
+      powerpack (~> 0.0.6)
+      rainbow (>= 1.99.1, < 3.0)
+      ruby-progressbar (~> 1.4)
+    ruby-progressbar (1.5.1)
+    slop (3.5.0)
 
 PLATFORMS
   ruby
@@ -21,3 +36,4 @@ PLATFORMS
 DEPENDENCIES
   cucumber
   rake
+  rubocop

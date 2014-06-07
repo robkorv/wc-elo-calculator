@@ -1,9 +1,8 @@
 require 'rubygems'
 
-task :default => [:test, :features]
+task :default => [:test,  :rubocop, :features]
 
 task :test do
-    puts "Running cucumber"
 end
 
 begin
@@ -20,3 +19,7 @@ rescue LoadError
         abort 'Cucumber rake task is not available. Be sure to install cucumber as a gem or plugin'
     end
 end
+
+
+require 'rubocop/rake_task'
+RuboCop::RakeTask.new

@@ -4,4 +4,6 @@ Feature: Parse elo scores
 Scenario: Get html
   Given there is a test set
   Then parse the elorating
-  And I will have an object with the score per country
+  Then search the dom for the ratings table
+  Then find a way to read the values
+  And create an object with the score per country

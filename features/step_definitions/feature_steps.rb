@@ -7,7 +7,7 @@ Before do
 end
 
 # Feature: Get elo scores
-When(/^there is no html already$/) do
+When(/^there is no elorating$/) do
   @calc.html_exist
 end
 
@@ -21,13 +21,22 @@ end
 
 # Feature: Parse elo scores
 Given(/^there is a test set$/) do
-  pending # express the regexp above with the code you wish you had
+  @calc.html_file = 'test/eloratings.html'
+  @calc.html_exist
 end
 
 Then(/^parse the elorating$/) do
-  pending # express the regexp above with the code you wish you had
+  @calc.parse_html
 end
 
-Then(/^I will have an object with the score per country$/) do
-  pending # express the regexp above with the code you wish you had
+Then(/^search the dom for the ratings table$/) do
+  @calc.search_dom
+end
+
+Then(/^find a way to read the values$/) do
+  @calc.read_values
+end
+
+Then(/^create an object with the score per country$/) do
+  puts  @calc.elo_hash
 end

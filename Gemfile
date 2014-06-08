@@ -4,3 +4,4 @@ gem 'rake'
 gem 'rubocop', require: false
 gem 'travis-lint'
 gem 'rdoc'
+gem 'nokogiri'

@@ -11,5 +11,9 @@ When(/^there is no html already$/) do
 end
 
 Then(/^get the html$/) do
-  pending # express the regexp above with the code you wish you had
+  @calc.download_html
+end
+
+Then(/^the html should be there$/) do
+  @calc.html_exist
 end

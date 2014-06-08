@@ -5,15 +5,16 @@ require 'nokogiri'
 # Represents the elo calculator
 class Elocalculator
   attr_accessor :html_file
-
-  attr_reader :elo_hash
+  attr_accessor :elo_hash
+  attr_accessor :avg_goals
 
   def initialize
     @html_file      = 'eloratings.html'
     @html_uri       = URI('http://www.eloratings.net/world_cup.html')
     @table_selector = 'table[bordercolor="white"][border="border"]
     [cellspacing="0"][frame="void"][rules="groups"]'
-    @elo_hash = {}
+    @elo_hash       = {}
+    @avg_goals      = 2.27
   end
 
   ##

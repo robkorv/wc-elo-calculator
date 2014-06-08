@@ -38,5 +38,5 @@ Then(/^find a way to read the values$/) do
 end
 
 Then(/^create an object with the score per country$/) do
-  puts  @calc.elo_hash
+  puts @calc.elo_hash
 end

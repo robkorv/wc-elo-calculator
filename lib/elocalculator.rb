@@ -6,6 +6,8 @@ require 'nokogiri'
 class Elocalculator
   attr_accessor :html_file
 
+  attr_reader :elo_hash
+
   def initialize
     @html_file      = 'eloratings.html'
     @html_uri       = URI('http://www.eloratings.net/world_cup.html')
@@ -52,11 +54,5 @@ class Elocalculator
       eloscore = item.css('td')[3].inner_text.strip.to_i
       @elo_hash.store(country, eloscore)
     end
-  end
-
-  ##
-  # Makes elo_hash readable, not writable from outside
-  def elo_hash
-    @elo_hash
   end
 end

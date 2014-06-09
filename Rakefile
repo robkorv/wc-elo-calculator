@@ -1,6 +1,6 @@
 require 'rubygems'
 
-task default: [:rubocop, :cucumber, :clean]
+task default: [:clean, :rubocop, :cucumber]
 
 task :clean do
   puts 'Cleaning....'

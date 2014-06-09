@@ -7,6 +7,9 @@ class Elocalculator
   attr_accessor :html_file
   attr_accessor :elo_hash
   attr_accessor :avg_goals
+  attr_accessor :html_doc
+  attr_accessor :table_selector
+  attr_accessor :found_html
 
   def initialize
     @html_file      = 'eloratings.html'
@@ -15,6 +18,7 @@ class Elocalculator
     [cellspacing="0"][frame="void"][rules="groups"]'
     @elo_hash       = {}
     @avg_goals      = 2.27
+    @found_html     = nil
   end
 
   ##

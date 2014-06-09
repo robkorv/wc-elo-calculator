@@ -26,6 +26,10 @@ GEM
     rainbow (2.0.0)
     rake (10.3.2)
     rdoc (4.1.0)
+    rspec-expectations (3.0.0)
+      diff-lcs (>= 1.2.0, < 2.0)
+      rspec-support (~> 3.0.0)
+    rspec-support (3.0.0)
     rubocop (0.23.0)
       json (>= 1.7.7, < 2)
       parser (~> 2.1.9)
@@ -47,5 +51,6 @@ DEPENDENCIES
   nokogiri
   rake
   rdoc
+  rspec-expectations
   rubocop
   travis-lint

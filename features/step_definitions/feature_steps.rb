@@ -82,6 +82,7 @@ Given(/^there is a (\d+)\.(\d+) average goals per match$/) do |arg1, arg2|
 end
 
 Then(/^the highest rating scores ~(\d+) goals against the lowest$/) do |arg1|
+  puts arg1
   pending # express the regexp above with the code you wish you had
 end
 

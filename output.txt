@@ -1,0 +1,992 @@
+{:country1=>"Brazil", :country2=>"Spain", :goals1=>1, :goals2=>1, :matchwinratio1=>0.514, :matchwinratio2=>0.486, :winner=>"tie"}
+{:country1=>"Brazil", :country2=>"Germany", :goals1=>1, :goals2=>1, :matchwinratio1=>0.535, :matchwinratio2=>0.465, :winner=>"tie"}
+{:country1=>"Brazil", :country2=>"Argentina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.569, :matchwinratio2=>0.431, :winner=>"tie"}
+{:country1=>"Brazil", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.589, :matchwinratio2=>0.411, :winner=>"tie"}
+{:country1=>"Brazil", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.621, :matchwinratio2=>0.379, :winner=>"tie"}
+{:country1=>"Brazil", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.63, :matchwinratio2=>0.37, :winner=>"tie"}
+{:country1=>"Brazil", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.634, :matchwinratio2=>0.366, :winner=>"tie"}
+{:country1=>"Brazil", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.636, :matchwinratio2=>0.364, :winner=>"tie"}
+{:country1=>"Brazil", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.636, :matchwinratio2=>0.364, :winner=>"tie"}
+{:country1=>"Brazil", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.648, :matchwinratio2=>0.352, :winner=>"tie"}
+{:country1=>"Brazil", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.657, :matchwinratio2=>0.343, :winner=>"tie"}
+{:country1=>"Brazil", :country2=>"United States", :goals1=>2, :goals2=>1, :matchwinratio1=>0.69, :matchwinratio2=>0.31, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"Belgium", :goals1=>2, :goals2=>1, :matchwinratio1=>0.697, :matchwinratio2=>0.303, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"Russia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.7, :matchwinratio2=>0.3, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"Mexico", :goals1=>2, :goals2=>1, :matchwinratio1=>0.701, :matchwinratio2=>0.299, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"Switzerland", :goals1=>2, :goals2=>1, :matchwinratio1=>0.701, :matchwinratio2=>0.299, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"Ecuador", :goals1=>2, :goals2=>1, :matchwinratio1=>0.708, :matchwinratio2=>0.292, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"Greece", :goals1=>2, :goals2=>1, :matchwinratio1=>0.725, :matchwinratio2=>0.275, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"Croatia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.734, :matchwinratio2=>0.266, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"Ivory Coast", :goals1=>2, :goals2=>1, :matchwinratio1=>0.744, :matchwinratio2=>0.256, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"Japan", :goals1=>2, :goals2=>1, :matchwinratio1=>0.772, :matchwinratio2=>0.228, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"Bosnia and Herzegovina", :goals1=>2, :goals2=>1, :matchwinratio1=>0.774, :matchwinratio2=>0.226, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"Nigeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.814, :matchwinratio2=>0.186, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"Costa Rica", :goals1=>2, :goals2=>0, :matchwinratio1=>0.83, :matchwinratio2=>0.17, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"Australia", :goals1=>2, :goals2=>0, :matchwinratio1=>0.84, :matchwinratio2=>0.16, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"Iran", :goals1=>2, :goals2=>0, :matchwinratio1=>0.846, :matchwinratio2=>0.154, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"Ghana", :goals1=>2, :goals2=>0, :matchwinratio1=>0.857, :matchwinratio2=>0.143, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"South Korea", :goals1=>2, :goals2=>0, :matchwinratio1=>0.878, :matchwinratio2=>0.122, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.927, :matchwinratio2=>0.073, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.986, :matchwinratio2=>0.014, :winner=>"Brazil"}
+{:country1=>"Brazil", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Brazil"}
+{:country1=>"Spain", :country2=>"Brazil", :goals1=>1, :goals2=>1, :matchwinratio1=>0.486, :matchwinratio2=>0.514, :winner=>"tie"}
+{:country1=>"Spain", :country2=>"Germany", :goals1=>1, :goals2=>1, :matchwinratio1=>0.522, :matchwinratio2=>0.478, :winner=>"tie"}
+{:country1=>"Spain", :country2=>"Argentina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.556, :matchwinratio2=>0.444, :winner=>"tie"}
+{:country1=>"Spain", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.576, :matchwinratio2=>0.424, :winner=>"tie"}
+{:country1=>"Spain", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.608, :matchwinratio2=>0.392, :winner=>"tie"}
+{:country1=>"Spain", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.617, :matchwinratio2=>0.383, :winner=>"tie"}
+{:country1=>"Spain", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.621, :matchwinratio2=>0.379, :winner=>"tie"}
+{:country1=>"Spain", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.623, :matchwinratio2=>0.377, :winner=>"tie"}
+{:country1=>"Spain", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.623, :matchwinratio2=>0.377, :winner=>"tie"}
+{:country1=>"Spain", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.636, :matchwinratio2=>0.364, :winner=>"tie"}
+{:country1=>"Spain", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.644, :matchwinratio2=>0.356, :winner=>"tie"}
+{:country1=>"Spain", :country2=>"United States", :goals1=>2, :goals2=>1, :matchwinratio1=>0.678, :matchwinratio2=>0.322, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"Belgium", :goals1=>2, :goals2=>1, :matchwinratio1=>0.686, :matchwinratio2=>0.314, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"Russia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.688, :matchwinratio2=>0.312, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"Mexico", :goals1=>2, :goals2=>1, :matchwinratio1=>0.689, :matchwinratio2=>0.311, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"Switzerland", :goals1=>2, :goals2=>1, :matchwinratio1=>0.689, :matchwinratio2=>0.311, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"Ecuador", :goals1=>2, :goals2=>1, :matchwinratio1=>0.696, :matchwinratio2=>0.304, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"Greece", :goals1=>2, :goals2=>1, :matchwinratio1=>0.714, :matchwinratio2=>0.286, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"Croatia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.723, :matchwinratio2=>0.277, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"Ivory Coast", :goals1=>2, :goals2=>1, :matchwinratio1=>0.733, :matchwinratio2=>0.267, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"Japan", :goals1=>2, :goals2=>1, :matchwinratio1=>0.762, :matchwinratio2=>0.238, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"Bosnia and Herzegovina", :goals1=>2, :goals2=>1, :matchwinratio1=>0.765, :matchwinratio2=>0.235, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"Nigeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.805, :matchwinratio2=>0.195, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"Costa Rica", :goals1=>2, :goals2=>0, :matchwinratio1=>0.822, :matchwinratio2=>0.178, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"Australia", :goals1=>2, :goals2=>0, :matchwinratio1=>0.833, :matchwinratio2=>0.167, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"Iran", :goals1=>2, :goals2=>0, :matchwinratio1=>0.839, :matchwinratio2=>0.161, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"Ghana", :goals1=>2, :goals2=>0, :matchwinratio1=>0.851, :matchwinratio2=>0.149, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"South Korea", :goals1=>2, :goals2=>0, :matchwinratio1=>0.872, :matchwinratio2=>0.128, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.924, :matchwinratio2=>0.076, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.986, :matchwinratio2=>0.014, :winner=>"Spain"}
+{:country1=>"Spain", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Spain"}
+{:country1=>"Germany", :country2=>"Brazil", :goals1=>1, :goals2=>1, :matchwinratio1=>0.465, :matchwinratio2=>0.535, :winner=>"tie"}
+{:country1=>"Germany", :country2=>"Spain", :goals1=>1, :goals2=>1, :matchwinratio1=>0.478, :matchwinratio2=>0.522, :winner=>"tie"}
+{:country1=>"Germany", :country2=>"Argentina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.534, :matchwinratio2=>0.466, :winner=>"tie"}
+{:country1=>"Germany", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.554, :matchwinratio2=>0.446, :winner=>"tie"}
+{:country1=>"Germany", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.587, :matchwinratio2=>0.413, :winner=>"tie"}
+{:country1=>"Germany", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.597, :matchwinratio2=>0.403, :winner=>"tie"}
+{:country1=>"Germany", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.601, :matchwinratio2=>0.399, :winner=>"tie"}
+{:country1=>"Germany", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.602, :matchwinratio2=>0.398, :winner=>"tie"}
+{:country1=>"Germany", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.602, :matchwinratio2=>0.398, :winner=>"tie"}
+{:country1=>"Germany", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.616, :matchwinratio2=>0.384, :winner=>"tie"}
+{:country1=>"Germany", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.624, :matchwinratio2=>0.376, :winner=>"tie"}
+{:country1=>"Germany", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.659, :matchwinratio2=>0.341, :winner=>"tie"}
+{:country1=>"Germany", :country2=>"Belgium", :goals1=>2, :goals2=>1, :matchwinratio1=>0.667, :matchwinratio2=>0.333, :winner=>"Germany"}
+{:country1=>"Germany", :country2=>"Russia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.67, :matchwinratio2=>0.33, :winner=>"Germany"}
+{:country1=>"Germany", :country2=>"Mexico", :goals1=>2, :goals2=>1, :matchwinratio1=>0.671, :matchwinratio2=>0.329, :winner=>"Germany"}
+{:country1=>"Germany", :country2=>"Switzerland", :goals1=>2, :goals2=>1, :matchwinratio1=>0.671, :matchwinratio2=>0.329, :winner=>"Germany"}
+{:country1=>"Germany", :country2=>"Ecuador", :goals1=>2, :goals2=>1, :matchwinratio1=>0.678, :matchwinratio2=>0.322, :winner=>"Germany"}
+{:country1=>"Germany", :country2=>"Greece", :goals1=>2, :goals2=>1, :matchwinratio1=>0.696, :matchwinratio2=>0.304, :winner=>"Germany"}
+{:country1=>"Germany", :country2=>"Croatia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.706, :matchwinratio2=>0.294, :winner=>"Germany"}
+{:country1=>"Germany", :country2=>"Ivory Coast", :goals1=>2, :goals2=>1, :matchwinratio1=>0.716, :matchwinratio2=>0.284, :winner=>"Germany"}
+{:country1=>"Germany", :country2=>"Japan", :goals1=>2, :goals2=>1, :matchwinratio1=>0.746, :matchwinratio2=>0.254, :winner=>"Germany"}
+{:country1=>"Germany", :country2=>"Bosnia and Herzegovina", :goals1=>2, :goals2=>1, :matchwinratio1=>0.749, :matchwinratio2=>0.251, :winner=>"Germany"}
+{:country1=>"Germany", :country2=>"Nigeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.791, :matchwinratio2=>0.209, :winner=>"Germany"}
+{:country1=>"Germany", :country2=>"Costa Rica", :goals1=>2, :goals2=>0, :matchwinratio1=>0.809, :matchwinratio2=>0.191, :winner=>"Germany"}
+{:country1=>"Germany", :country2=>"Australia", :goals1=>2, :goals2=>0, :matchwinratio1=>0.821, :matchwinratio2=>0.179, :winner=>"Germany"}
+{:country1=>"Germany", :country2=>"Iran", :goals1=>2, :goals2=>0, :matchwinratio1=>0.827, :matchwinratio2=>0.173, :winner=>"Germany"}
+{:country1=>"Germany", :country2=>"Ghana", :goals1=>2, :goals2=>0, :matchwinratio1=>0.839, :matchwinratio2=>0.161, :winner=>"Germany"}
+{:country1=>"Germany", :country2=>"South Korea", :goals1=>2, :goals2=>0, :matchwinratio1=>0.862, :matchwinratio2=>0.138, :winner=>"Germany"}
+{:country1=>"Germany", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.917, :matchwinratio2=>0.083, :winner=>"Germany"}
+{:country1=>"Germany", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.984, :matchwinratio2=>0.016, :winner=>"Germany"}
+{:country1=>"Germany", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Germany"}
+{:country1=>"Argentina", :country2=>"Brazil", :goals1=>1, :goals2=>1, :matchwinratio1=>0.431, :matchwinratio2=>0.569, :winner=>"tie"}
+{:country1=>"Argentina", :country2=>"Spain", :goals1=>1, :goals2=>1, :matchwinratio1=>0.444, :matchwinratio2=>0.556, :winner=>"tie"}
+{:country1=>"Argentina", :country2=>"Germany", :goals1=>1, :goals2=>1, :matchwinratio1=>0.466, :matchwinratio2=>0.534, :winner=>"tie"}
+{:country1=>"Argentina", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.52, :matchwinratio2=>0.48, :winner=>"tie"}
+{:country1=>"Argentina", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.554, :matchwinratio2=>0.446, :winner=>"tie"}
+{:country1=>"Argentina", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.563, :matchwinratio2=>0.437, :winner=>"tie"}
+{:country1=>"Argentina", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.567, :matchwinratio2=>0.433, :winner=>"tie"}
+{:country1=>"Argentina", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.569, :matchwinratio2=>0.431, :winner=>"tie"}
+{:country1=>"Argentina", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.569, :matchwinratio2=>0.431, :winner=>"tie"}
+{:country1=>"Argentina", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.583, :matchwinratio2=>0.417, :winner=>"tie"}
+{:country1=>"Argentina", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.592, :matchwinratio2=>0.408, :winner=>"tie"}
+{:country1=>"Argentina", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.627, :matchwinratio2=>0.373, :winner=>"tie"}
+{:country1=>"Argentina", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.635, :matchwinratio2=>0.365, :winner=>"tie"}
+{:country1=>"Argentina", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.639, :matchwinratio2=>0.361, :winner=>"tie"}
+{:country1=>"Argentina", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.64, :matchwinratio2=>0.36, :winner=>"tie"}
+{:country1=>"Argentina", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.64, :matchwinratio2=>0.36, :winner=>"tie"}
+{:country1=>"Argentina", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.647, :matchwinratio2=>0.353, :winner=>"tie"}
+{:country1=>"Argentina", :country2=>"Greece", :goals1=>2, :goals2=>1, :matchwinratio1=>0.666, :matchwinratio2=>0.334, :winner=>"Argentina"}
+{:country1=>"Argentina", :country2=>"Croatia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.677, :matchwinratio2=>0.323, :winner=>"Argentina"}
+{:country1=>"Argentina", :country2=>"Ivory Coast", :goals1=>2, :goals2=>1, :matchwinratio1=>0.687, :matchwinratio2=>0.313, :winner=>"Argentina"}
+{:country1=>"Argentina", :country2=>"Japan", :goals1=>2, :goals2=>1, :matchwinratio1=>0.719, :matchwinratio2=>0.281, :winner=>"Argentina"}
+{:country1=>"Argentina", :country2=>"Bosnia and Herzegovina", :goals1=>2, :goals2=>1, :matchwinratio1=>0.722, :matchwinratio2=>0.278, :winner=>"Argentina"}
+{:country1=>"Argentina", :country2=>"Nigeria", :goals1=>2, :goals2=>1, :matchwinratio1=>0.768, :matchwinratio2=>0.232, :winner=>"Argentina"}
+{:country1=>"Argentina", :country2=>"Costa Rica", :goals1=>2, :goals2=>0, :matchwinratio1=>0.787, :matchwinratio2=>0.213, :winner=>"Argentina"}
+{:country1=>"Argentina", :country2=>"Australia", :goals1=>2, :goals2=>0, :matchwinratio1=>0.8, :matchwinratio2=>0.2, :winner=>"Argentina"}
+{:country1=>"Argentina", :country2=>"Iran", :goals1=>2, :goals2=>0, :matchwinratio1=>0.806, :matchwinratio2=>0.194, :winner=>"Argentina"}
+{:country1=>"Argentina", :country2=>"Ghana", :goals1=>2, :goals2=>0, :matchwinratio1=>0.82, :matchwinratio2=>0.18, :winner=>"Argentina"}
+{:country1=>"Argentina", :country2=>"South Korea", :goals1=>2, :goals2=>0, :matchwinratio1=>0.845, :matchwinratio2=>0.155, :winner=>"Argentina"}
+{:country1=>"Argentina", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.906, :matchwinratio2=>0.094, :winner=>"Argentina"}
+{:country1=>"Argentina", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.982, :matchwinratio2=>0.018, :winner=>"Argentina"}
+{:country1=>"Argentina", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Argentina"}
+{:country1=>"Netherlands", :country2=>"Brazil", :goals1=>1, :goals2=>1, :matchwinratio1=>0.411, :matchwinratio2=>0.589, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"Spain", :goals1=>1, :goals2=>1, :matchwinratio1=>0.424, :matchwinratio2=>0.576, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"Germany", :goals1=>1, :goals2=>1, :matchwinratio1=>0.446, :matchwinratio2=>0.554, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"Argentina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.48, :matchwinratio2=>0.52, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.534, :matchwinratio2=>0.466, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.543, :matchwinratio2=>0.457, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.548, :matchwinratio2=>0.452, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.549, :matchwinratio2=>0.451, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.549, :matchwinratio2=>0.451, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.563, :matchwinratio2=>0.437, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.572, :matchwinratio2=>0.428, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.608, :matchwinratio2=>0.392, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.617, :matchwinratio2=>0.383, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.62, :matchwinratio2=>0.38, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.621, :matchwinratio2=>0.379, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.621, :matchwinratio2=>0.379, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.629, :matchwinratio2=>0.371, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.648, :matchwinratio2=>0.352, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.659, :matchwinratio2=>0.341, :winner=>"tie"}
+{:country1=>"Netherlands", :country2=>"Ivory Coast", :goals1=>2, :goals2=>1, :matchwinratio1=>0.67, :matchwinratio2=>0.33, :winner=>"Netherlands"}
+{:country1=>"Netherlands", :country2=>"Japan", :goals1=>2, :goals2=>1, :matchwinratio1=>0.703, :matchwinratio2=>0.297, :winner=>"Netherlands"}
+{:country1=>"Netherlands", :country2=>"Bosnia and Herzegovina", :goals1=>2, :goals2=>1, :matchwinratio1=>0.706, :matchwinratio2=>0.294, :winner=>"Netherlands"}
+{:country1=>"Netherlands", :country2=>"Nigeria", :goals1=>2, :goals2=>1, :matchwinratio1=>0.753, :matchwinratio2=>0.247, :winner=>"Netherlands"}
+{:country1=>"Netherlands", :country2=>"Costa Rica", :goals1=>2, :goals2=>1, :matchwinratio1=>0.773, :matchwinratio2=>0.227, :winner=>"Netherlands"}
+{:country1=>"Netherlands", :country2=>"Australia", :goals1=>2, :goals2=>0, :matchwinratio1=>0.786, :matchwinratio2=>0.214, :winner=>"Netherlands"}
+{:country1=>"Netherlands", :country2=>"Iran", :goals1=>2, :goals2=>0, :matchwinratio1=>0.793, :matchwinratio2=>0.207, :winner=>"Netherlands"}
+{:country1=>"Netherlands", :country2=>"Ghana", :goals1=>2, :goals2=>0, :matchwinratio1=>0.808, :matchwinratio2=>0.192, :winner=>"Netherlands"}
+{:country1=>"Netherlands", :country2=>"South Korea", :goals1=>2, :goals2=>0, :matchwinratio1=>0.834, :matchwinratio2=>0.166, :winner=>"Netherlands"}
+{:country1=>"Netherlands", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.899, :matchwinratio2=>0.101, :winner=>"Netherlands"}
+{:country1=>"Netherlands", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.981, :matchwinratio2=>0.019, :winner=>"Netherlands"}
+{:country1=>"Netherlands", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Netherlands"}
+{:country1=>"England", :country2=>"Brazil", :goals1=>1, :goals2=>1, :matchwinratio1=>0.379, :matchwinratio2=>0.621, :winner=>"tie"}
+{:country1=>"England", :country2=>"Spain", :goals1=>1, :goals2=>1, :matchwinratio1=>0.392, :matchwinratio2=>0.608, :winner=>"tie"}
+{:country1=>"England", :country2=>"Germany", :goals1=>1, :goals2=>1, :matchwinratio1=>0.413, :matchwinratio2=>0.587, :winner=>"tie"}
+{:country1=>"England", :country2=>"Argentina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.446, :matchwinratio2=>0.554, :winner=>"tie"}
+{:country1=>"England", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.466, :matchwinratio2=>0.534, :winner=>"tie"}
+{:country1=>"England", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.51, :matchwinratio2=>0.49, :winner=>"tie"}
+{:country1=>"England", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.514, :matchwinratio2=>0.486, :winner=>"tie"}
+{:country1=>"England", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.516, :matchwinratio2=>0.484, :winner=>"tie"}
+{:country1=>"England", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.516, :matchwinratio2=>0.484, :winner=>"tie"}
+{:country1=>"England", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.53, :matchwinratio2=>0.47, :winner=>"tie"}
+{:country1=>"England", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.539, :matchwinratio2=>0.461, :winner=>"tie"}
+{:country1=>"England", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.576, :matchwinratio2=>0.424, :winner=>"tie"}
+{:country1=>"England", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.584, :matchwinratio2=>0.416, :winner=>"tie"}
+{:country1=>"England", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.588, :matchwinratio2=>0.412, :winner=>"tie"}
+{:country1=>"England", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.589, :matchwinratio2=>0.411, :winner=>"tie"}
+{:country1=>"England", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.589, :matchwinratio2=>0.411, :winner=>"tie"}
+{:country1=>"England", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.597, :matchwinratio2=>0.403, :winner=>"tie"}
+{:country1=>"England", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.617, :matchwinratio2=>0.383, :winner=>"tie"}
+{:country1=>"England", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.628, :matchwinratio2=>0.372, :winner=>"tie"}
+{:country1=>"England", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.639, :matchwinratio2=>0.361, :winner=>"tie"}
+{:country1=>"England", :country2=>"Japan", :goals1=>2, :goals2=>1, :matchwinratio1=>0.674, :matchwinratio2=>0.326, :winner=>"England"}
+{:country1=>"England", :country2=>"Bosnia and Herzegovina", :goals1=>2, :goals2=>1, :matchwinratio1=>0.677, :matchwinratio2=>0.323, :winner=>"England"}
+{:country1=>"England", :country2=>"Nigeria", :goals1=>2, :goals2=>1, :matchwinratio1=>0.727, :matchwinratio2=>0.273, :winner=>"England"}
+{:country1=>"England", :country2=>"Costa Rica", :goals1=>2, :goals2=>1, :matchwinratio1=>0.748, :matchwinratio2=>0.252, :winner=>"England"}
+{:country1=>"England", :country2=>"Australia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.763, :matchwinratio2=>0.237, :winner=>"England"}
+{:country1=>"England", :country2=>"Iran", :goals1=>2, :goals2=>1, :matchwinratio1=>0.77, :matchwinratio2=>0.23, :winner=>"England"}
+{:country1=>"England", :country2=>"Ghana", :goals1=>2, :goals2=>0, :matchwinratio1=>0.786, :matchwinratio2=>0.214, :winner=>"England"}
+{:country1=>"England", :country2=>"South Korea", :goals1=>2, :goals2=>0, :matchwinratio1=>0.815, :matchwinratio2=>0.185, :winner=>"England"}
+{:country1=>"England", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.886, :matchwinratio2=>0.114, :winner=>"England"}
+{:country1=>"England", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.978, :matchwinratio2=>0.022, :winner=>"England"}
+{:country1=>"England", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"England"}
+{:country1=>"Portugal", :country2=>"Brazil", :goals1=>1, :goals2=>1, :matchwinratio1=>0.37, :matchwinratio2=>0.63, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"Spain", :goals1=>1, :goals2=>1, :matchwinratio1=>0.383, :matchwinratio2=>0.617, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"Germany", :goals1=>1, :goals2=>1, :matchwinratio1=>0.403, :matchwinratio2=>0.597, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"Argentina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.437, :matchwinratio2=>0.563, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.457, :matchwinratio2=>0.543, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.49, :matchwinratio2=>0.51, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.504, :matchwinratio2=>0.496, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.506, :matchwinratio2=>0.494, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.506, :matchwinratio2=>0.494, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.52, :matchwinratio2=>0.48, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.529, :matchwinratio2=>0.471, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.566, :matchwinratio2=>0.434, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.575, :matchwinratio2=>0.425, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.578, :matchwinratio2=>0.422, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.579, :matchwinratio2=>0.421, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.579, :matchwinratio2=>0.421, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.587, :matchwinratio2=>0.413, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.607, :matchwinratio2=>0.393, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.619, :matchwinratio2=>0.381, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.63, :matchwinratio2=>0.37, :winner=>"tie"}
+{:country1=>"Portugal", :country2=>"Japan", :goals1=>2, :goals2=>1, :matchwinratio1=>0.665, :matchwinratio2=>0.335, :winner=>"Portugal"}
+{:country1=>"Portugal", :country2=>"Bosnia and Herzegovina", :goals1=>2, :goals2=>1, :matchwinratio1=>0.668, :matchwinratio2=>0.332, :winner=>"Portugal"}
+{:country1=>"Portugal", :country2=>"Nigeria", :goals1=>2, :goals2=>1, :matchwinratio1=>0.719, :matchwinratio2=>0.281, :winner=>"Portugal"}
+{:country1=>"Portugal", :country2=>"Costa Rica", :goals1=>2, :goals2=>1, :matchwinratio1=>0.741, :matchwinratio2=>0.259, :winner=>"Portugal"}
+{:country1=>"Portugal", :country2=>"Australia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.756, :matchwinratio2=>0.244, :winner=>"Portugal"}
+{:country1=>"Portugal", :country2=>"Iran", :goals1=>2, :goals2=>1, :matchwinratio1=>0.763, :matchwinratio2=>0.237, :winner=>"Portugal"}
+{:country1=>"Portugal", :country2=>"Ghana", :goals1=>2, :goals2=>1, :matchwinratio1=>0.779, :matchwinratio2=>0.221, :winner=>"Portugal"}
+{:country1=>"Portugal", :country2=>"South Korea", :goals1=>2, :goals2=>0, :matchwinratio1=>0.809, :matchwinratio2=>0.191, :winner=>"Portugal"}
+{:country1=>"Portugal", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.882, :matchwinratio2=>0.118, :winner=>"Portugal"}
+{:country1=>"Portugal", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.977, :matchwinratio2=>0.023, :winner=>"Portugal"}
+{:country1=>"Portugal", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Portugal"}
+{:country1=>"Colombia", :country2=>"Brazil", :goals1=>1, :goals2=>1, :matchwinratio1=>0.366, :matchwinratio2=>0.634, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"Spain", :goals1=>1, :goals2=>1, :matchwinratio1=>0.379, :matchwinratio2=>0.621, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"Germany", :goals1=>1, :goals2=>1, :matchwinratio1=>0.399, :matchwinratio2=>0.601, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"Argentina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.433, :matchwinratio2=>0.567, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.452, :matchwinratio2=>0.548, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.486, :matchwinratio2=>0.514, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.496, :matchwinratio2=>0.504, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.502, :matchwinratio2=>0.498, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.502, :matchwinratio2=>0.498, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.516, :matchwinratio2=>0.484, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.525, :matchwinratio2=>0.475, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.562, :matchwinratio2=>0.438, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.571, :matchwinratio2=>0.429, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.574, :matchwinratio2=>0.426, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.575, :matchwinratio2=>0.425, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.575, :matchwinratio2=>0.425, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.583, :matchwinratio2=>0.417, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.603, :matchwinratio2=>0.397, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.615, :matchwinratio2=>0.385, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.626, :matchwinratio2=>0.374, :winner=>"tie"}
+{:country1=>"Colombia", :country2=>"Japan", :goals1=>2, :goals2=>1, :matchwinratio1=>0.661, :matchwinratio2=>0.339, :winner=>"Colombia"}
+{:country1=>"Colombia", :country2=>"Bosnia and Herzegovina", :goals1=>2, :goals2=>1, :matchwinratio1=>0.664, :matchwinratio2=>0.336, :winner=>"Colombia"}
+{:country1=>"Colombia", :country2=>"Nigeria", :goals1=>2, :goals2=>1, :matchwinratio1=>0.716, :matchwinratio2=>0.284, :winner=>"Colombia"}
+{:country1=>"Colombia", :country2=>"Costa Rica", :goals1=>2, :goals2=>1, :matchwinratio1=>0.738, :matchwinratio2=>0.263, :winner=>"Colombia"}
+{:country1=>"Colombia", :country2=>"Australia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.753, :matchwinratio2=>0.247, :winner=>"Colombia"}
+{:country1=>"Colombia", :country2=>"Iran", :goals1=>2, :goals2=>1, :matchwinratio1=>0.76, :matchwinratio2=>0.24, :winner=>"Colombia"}
+{:country1=>"Colombia", :country2=>"Ghana", :goals1=>2, :goals2=>1, :matchwinratio1=>0.776, :matchwinratio2=>0.224, :winner=>"Colombia"}
+{:country1=>"Colombia", :country2=>"South Korea", :goals1=>2, :goals2=>0, :matchwinratio1=>0.806, :matchwinratio2=>0.194, :winner=>"Colombia"}
+{:country1=>"Colombia", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.881, :matchwinratio2=>0.119, :winner=>"Colombia"}
+{:country1=>"Colombia", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.977, :matchwinratio2=>0.023, :winner=>"Colombia"}
+{:country1=>"Colombia", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Colombia"}
+{:country1=>"Uruguay", :country2=>"Brazil", :goals1=>1, :goals2=>1, :matchwinratio1=>0.364, :matchwinratio2=>0.636, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"Spain", :goals1=>1, :goals2=>1, :matchwinratio1=>0.377, :matchwinratio2=>0.623, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"Germany", :goals1=>1, :goals2=>1, :matchwinratio1=>0.398, :matchwinratio2=>0.602, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"Argentina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.431, :matchwinratio2=>0.569, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.451, :matchwinratio2=>0.549, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.484, :matchwinratio2=>0.516, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.494, :matchwinratio2=>0.506, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.498, :matchwinratio2=>0.502, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.5, :matchwinratio2=>0.5, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.514, :matchwinratio2=>0.486, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.523, :matchwinratio2=>0.477, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.56, :matchwinratio2=>0.44, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.569, :matchwinratio2=>0.431, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.572, :matchwinratio2=>0.428, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.573, :matchwinratio2=>0.427, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.573, :matchwinratio2=>0.427, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.581, :matchwinratio2=>0.419, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.602, :matchwinratio2=>0.398, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.613, :matchwinratio2=>0.387, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.625, :matchwinratio2=>0.375, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.66, :matchwinratio2=>0.34, :winner=>"tie"}
+{:country1=>"Uruguay", :country2=>"Bosnia and Herzegovina", :goals1=>2, :goals2=>1, :matchwinratio1=>0.663, :matchwinratio2=>0.337, :winner=>"Uruguay"}
+{:country1=>"Uruguay", :country2=>"Nigeria", :goals1=>2, :goals2=>1, :matchwinratio1=>0.715, :matchwinratio2=>0.285, :winner=>"Uruguay"}
+{:country1=>"Uruguay", :country2=>"Costa Rica", :goals1=>2, :goals2=>1, :matchwinratio1=>0.736, :matchwinratio2=>0.264, :winner=>"Uruguay"}
+{:country1=>"Uruguay", :country2=>"Australia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.751, :matchwinratio2=>0.249, :winner=>"Uruguay"}
+{:country1=>"Uruguay", :country2=>"Iran", :goals1=>2, :goals2=>1, :matchwinratio1=>0.759, :matchwinratio2=>0.241, :winner=>"Uruguay"}
+{:country1=>"Uruguay", :country2=>"Ghana", :goals1=>2, :goals2=>1, :matchwinratio1=>0.775, :matchwinratio2=>0.225, :winner=>"Uruguay"}
+{:country1=>"Uruguay", :country2=>"South Korea", :goals1=>2, :goals2=>0, :matchwinratio1=>0.805, :matchwinratio2=>0.195, :winner=>"Uruguay"}
+{:country1=>"Uruguay", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.88, :matchwinratio2=>0.12, :winner=>"Uruguay"}
+{:country1=>"Uruguay", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.977, :matchwinratio2=>0.023, :winner=>"Uruguay"}
+{:country1=>"Uruguay", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Uruguay"}
+{:country1=>"Chile", :country2=>"Brazil", :goals1=>1, :goals2=>1, :matchwinratio1=>0.364, :matchwinratio2=>0.636, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"Spain", :goals1=>1, :goals2=>1, :matchwinratio1=>0.377, :matchwinratio2=>0.623, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"Germany", :goals1=>1, :goals2=>1, :matchwinratio1=>0.398, :matchwinratio2=>0.602, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"Argentina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.431, :matchwinratio2=>0.569, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.451, :matchwinratio2=>0.549, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.484, :matchwinratio2=>0.516, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.494, :matchwinratio2=>0.506, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.498, :matchwinratio2=>0.502, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.5, :matchwinratio2=>0.5, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.514, :matchwinratio2=>0.486, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.523, :matchwinratio2=>0.477, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.56, :matchwinratio2=>0.44, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.569, :matchwinratio2=>0.431, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.572, :matchwinratio2=>0.428, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.573, :matchwinratio2=>0.427, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.573, :matchwinratio2=>0.427, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.581, :matchwinratio2=>0.419, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.602, :matchwinratio2=>0.398, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.613, :matchwinratio2=>0.387, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.625, :matchwinratio2=>0.375, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.66, :matchwinratio2=>0.34, :winner=>"tie"}
+{:country1=>"Chile", :country2=>"Bosnia and Herzegovina", :goals1=>2, :goals2=>1, :matchwinratio1=>0.663, :matchwinratio2=>0.337, :winner=>"Chile"}
+{:country1=>"Chile", :country2=>"Nigeria", :goals1=>2, :goals2=>1, :matchwinratio1=>0.715, :matchwinratio2=>0.285, :winner=>"Chile"}
+{:country1=>"Chile", :country2=>"Costa Rica", :goals1=>2, :goals2=>1, :matchwinratio1=>0.736, :matchwinratio2=>0.264, :winner=>"Chile"}
+{:country1=>"Chile", :country2=>"Australia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.751, :matchwinratio2=>0.249, :winner=>"Chile"}
+{:country1=>"Chile", :country2=>"Iran", :goals1=>2, :goals2=>1, :matchwinratio1=>0.759, :matchwinratio2=>0.241, :winner=>"Chile"}
+{:country1=>"Chile", :country2=>"Ghana", :goals1=>2, :goals2=>1, :matchwinratio1=>0.775, :matchwinratio2=>0.225, :winner=>"Chile"}
+{:country1=>"Chile", :country2=>"South Korea", :goals1=>2, :goals2=>0, :matchwinratio1=>0.805, :matchwinratio2=>0.195, :winner=>"Chile"}
+{:country1=>"Chile", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.88, :matchwinratio2=>0.12, :winner=>"Chile"}
+{:country1=>"Chile", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.977, :matchwinratio2=>0.023, :winner=>"Chile"}
+{:country1=>"Chile", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Chile"}
+{:country1=>"Italy", :country2=>"Brazil", :goals1=>1, :goals2=>1, :matchwinratio1=>0.352, :matchwinratio2=>0.648, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Spain", :goals1=>1, :goals2=>1, :matchwinratio1=>0.364, :matchwinratio2=>0.636, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Germany", :goals1=>1, :goals2=>1, :matchwinratio1=>0.384, :matchwinratio2=>0.616, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Argentina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.417, :matchwinratio2=>0.583, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.437, :matchwinratio2=>0.563, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.47, :matchwinratio2=>0.53, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.48, :matchwinratio2=>0.52, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.484, :matchwinratio2=>0.516, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.486, :matchwinratio2=>0.514, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.486, :matchwinratio2=>0.514, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.509, :matchwinratio2=>0.491, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.546, :matchwinratio2=>0.454, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.555, :matchwinratio2=>0.445, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.558, :matchwinratio2=>0.442, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.56, :matchwinratio2=>0.44, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.56, :matchwinratio2=>0.44, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.568, :matchwinratio2=>0.432, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.588, :matchwinratio2=>0.412, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.6, :matchwinratio2=>0.4, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.611, :matchwinratio2=>0.389, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.647, :matchwinratio2=>0.353, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Bosnia and Herzegovina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.65, :matchwinratio2=>0.35, :winner=>"tie"}
+{:country1=>"Italy", :country2=>"Nigeria", :goals1=>2, :goals2=>1, :matchwinratio1=>0.703, :matchwinratio2=>0.297, :winner=>"Italy"}
+{:country1=>"Italy", :country2=>"Costa Rica", :goals1=>2, :goals2=>1, :matchwinratio1=>0.725, :matchwinratio2=>0.275, :winner=>"Italy"}
+{:country1=>"Italy", :country2=>"Australia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.741, :matchwinratio2=>0.259, :winner=>"Italy"}
+{:country1=>"Italy", :country2=>"Iran", :goals1=>2, :goals2=>1, :matchwinratio1=>0.749, :matchwinratio2=>0.251, :winner=>"Italy"}
+{:country1=>"Italy", :country2=>"Ghana", :goals1=>2, :goals2=>1, :matchwinratio1=>0.765, :matchwinratio2=>0.235, :winner=>"Italy"}
+{:country1=>"Italy", :country2=>"South Korea", :goals1=>2, :goals2=>0, :matchwinratio1=>0.796, :matchwinratio2=>0.204, :winner=>"Italy"}
+{:country1=>"Italy", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.874, :matchwinratio2=>0.126, :winner=>"Italy"}
+{:country1=>"Italy", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.975, :matchwinratio2=>0.025, :winner=>"Italy"}
+{:country1=>"Italy", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Italy"}
+{:country1=>"France", :country2=>"Brazil", :goals1=>1, :goals2=>1, :matchwinratio1=>0.343, :matchwinratio2=>0.657, :winner=>"tie"}
+{:country1=>"France", :country2=>"Spain", :goals1=>1, :goals2=>1, :matchwinratio1=>0.356, :matchwinratio2=>0.644, :winner=>"tie"}
+{:country1=>"France", :country2=>"Germany", :goals1=>1, :goals2=>1, :matchwinratio1=>0.376, :matchwinratio2=>0.624, :winner=>"tie"}
+{:country1=>"France", :country2=>"Argentina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.408, :matchwinratio2=>0.592, :winner=>"tie"}
+{:country1=>"France", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.428, :matchwinratio2=>0.572, :winner=>"tie"}
+{:country1=>"France", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.461, :matchwinratio2=>0.539, :winner=>"tie"}
+{:country1=>"France", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.471, :matchwinratio2=>0.529, :winner=>"tie"}
+{:country1=>"France", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.475, :matchwinratio2=>0.525, :winner=>"tie"}
+{:country1=>"France", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.477, :matchwinratio2=>0.523, :winner=>"tie"}
+{:country1=>"France", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.477, :matchwinratio2=>0.523, :winner=>"tie"}
+{:country1=>"France", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.491, :matchwinratio2=>0.509, :winner=>"tie"}
+{:country1=>"France", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.537, :matchwinratio2=>0.463, :winner=>"tie"}
+{:country1=>"France", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.546, :matchwinratio2=>0.454, :winner=>"tie"}
+{:country1=>"France", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.549, :matchwinratio2=>0.451, :winner=>"tie"}
+{:country1=>"France", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.551, :matchwinratio2=>0.449, :winner=>"tie"}
+{:country1=>"France", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.551, :matchwinratio2=>0.449, :winner=>"tie"}
+{:country1=>"France", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.559, :matchwinratio2=>0.441, :winner=>"tie"}
+{:country1=>"France", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.579, :matchwinratio2=>0.421, :winner=>"tie"}
+{:country1=>"France", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.591, :matchwinratio2=>0.409, :winner=>"tie"}
+{:country1=>"France", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.603, :matchwinratio2=>0.397, :winner=>"tie"}
+{:country1=>"France", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.639, :matchwinratio2=>0.361, :winner=>"tie"}
+{:country1=>"France", :country2=>"Bosnia and Herzegovina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.642, :matchwinratio2=>0.358, :winner=>"tie"}
+{:country1=>"France", :country2=>"Nigeria", :goals1=>2, :goals2=>1, :matchwinratio1=>0.695, :matchwinratio2=>0.305, :winner=>"France"}
+{:country1=>"France", :country2=>"Costa Rica", :goals1=>2, :goals2=>1, :matchwinratio1=>0.718, :matchwinratio2=>0.282, :winner=>"France"}
+{:country1=>"France", :country2=>"Australia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.734, :matchwinratio2=>0.266, :winner=>"France"}
+{:country1=>"France", :country2=>"Iran", :goals1=>2, :goals2=>1, :matchwinratio1=>0.742, :matchwinratio2=>0.258, :winner=>"France"}
+{:country1=>"France", :country2=>"Ghana", :goals1=>2, :goals2=>1, :matchwinratio1=>0.759, :matchwinratio2=>0.241, :winner=>"France"}
+{:country1=>"France", :country2=>"South Korea", :goals1=>2, :goals2=>0, :matchwinratio1=>0.79, :matchwinratio2=>0.21, :winner=>"France"}
+{:country1=>"France", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.87, :matchwinratio2=>0.13, :winner=>"France"}
+{:country1=>"France", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.974, :matchwinratio2=>0.026, :winner=>"France"}
+{:country1=>"France", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"France"}
+{:country1=>"United States", :country2=>"Brazil", :goals1=>1, :goals2=>2, :matchwinratio1=>0.31, :matchwinratio2=>0.69, :winner=>"Brazil"}
+{:country1=>"United States", :country2=>"Spain", :goals1=>1, :goals2=>2, :matchwinratio1=>0.322, :matchwinratio2=>0.678, :winner=>"Spain"}
+{:country1=>"United States", :country2=>"Germany", :goals1=>1, :goals2=>1, :matchwinratio1=>0.341, :matchwinratio2=>0.659, :winner=>"tie"}
+{:country1=>"United States", :country2=>"Argentina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.373, :matchwinratio2=>0.627, :winner=>"tie"}
+{:country1=>"United States", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.392, :matchwinratio2=>0.608, :winner=>"tie"}
+{:country1=>"United States", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.424, :matchwinratio2=>0.576, :winner=>"tie"}
+{:country1=>"United States", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.434, :matchwinratio2=>0.566, :winner=>"tie"}
+{:country1=>"United States", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.438, :matchwinratio2=>0.562, :winner=>"tie"}
+{:country1=>"United States", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.44, :matchwinratio2=>0.56, :winner=>"tie"}
+{:country1=>"United States", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.44, :matchwinratio2=>0.56, :winner=>"tie"}
+{:country1=>"United States", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.454, :matchwinratio2=>0.546, :winner=>"tie"}
+{:country1=>"United States", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.463, :matchwinratio2=>0.537, :winner=>"tie"}
+{:country1=>"United States", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.509, :matchwinratio2=>0.491, :winner=>"tie"}
+{:country1=>"United States", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.512, :matchwinratio2=>0.488, :winner=>"tie"}
+{:country1=>"United States", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.513, :matchwinratio2=>0.487, :winner=>"tie"}
+{:country1=>"United States", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.513, :matchwinratio2=>0.487, :winner=>"tie"}
+{:country1=>"United States", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.522, :matchwinratio2=>0.478, :winner=>"tie"}
+{:country1=>"United States", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.542, :matchwinratio2=>0.458, :winner=>"tie"}
+{:country1=>"United States", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.554, :matchwinratio2=>0.446, :winner=>"tie"}
+{:country1=>"United States", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.567, :matchwinratio2=>0.433, :winner=>"tie"}
+{:country1=>"United States", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.604, :matchwinratio2=>0.396, :winner=>"tie"}
+{:country1=>"United States", :country2=>"Bosnia and Herzegovina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.607, :matchwinratio2=>0.393, :winner=>"tie"}
+{:country1=>"United States", :country2=>"Nigeria", :goals1=>2, :goals2=>1, :matchwinratio1=>0.663, :matchwinratio2=>0.337, :winner=>"United States"}
+{:country1=>"United States", :country2=>"Costa Rica", :goals1=>2, :goals2=>1, :matchwinratio1=>0.687, :matchwinratio2=>0.313, :winner=>"United States"}
+{:country1=>"United States", :country2=>"Australia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.703, :matchwinratio2=>0.297, :winner=>"United States"}
+{:country1=>"United States", :country2=>"Iran", :goals1=>2, :goals2=>1, :matchwinratio1=>0.712, :matchwinratio2=>0.288, :winner=>"United States"}
+{:country1=>"United States", :country2=>"Ghana", :goals1=>2, :goals2=>1, :matchwinratio1=>0.73, :matchwinratio2=>0.27, :winner=>"United States"}
+{:country1=>"United States", :country2=>"South Korea", :goals1=>2, :goals2=>1, :matchwinratio1=>0.764, :matchwinratio2=>0.236, :winner=>"United States"}
+{:country1=>"United States", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.852, :matchwinratio2=>0.148, :winner=>"United States"}
+{:country1=>"United States", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.97, :matchwinratio2=>0.03, :winner=>"United States"}
+{:country1=>"United States", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"United States"}
+{:country1=>"Belgium", :country2=>"Brazil", :goals1=>1, :goals2=>2, :matchwinratio1=>0.303, :matchwinratio2=>0.697, :winner=>"Brazil"}
+{:country1=>"Belgium", :country2=>"Spain", :goals1=>1, :goals2=>2, :matchwinratio1=>0.314, :matchwinratio2=>0.686, :winner=>"Spain"}
+{:country1=>"Belgium", :country2=>"Germany", :goals1=>1, :goals2=>2, :matchwinratio1=>0.333, :matchwinratio2=>0.667, :winner=>"Germany"}
+{:country1=>"Belgium", :country2=>"Argentina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.365, :matchwinratio2=>0.635, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.383, :matchwinratio2=>0.617, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.416, :matchwinratio2=>0.584, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.425, :matchwinratio2=>0.575, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.429, :matchwinratio2=>0.571, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.431, :matchwinratio2=>0.569, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.431, :matchwinratio2=>0.569, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.445, :matchwinratio2=>0.555, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.454, :matchwinratio2=>0.546, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.491, :matchwinratio2=>0.509, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.503, :matchwinratio2=>0.497, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.505, :matchwinratio2=>0.495, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.505, :matchwinratio2=>0.495, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.513, :matchwinratio2=>0.487, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.534, :matchwinratio2=>0.466, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.545, :matchwinratio2=>0.455, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.558, :matchwinratio2=>0.442, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.595, :matchwinratio2=>0.405, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"Bosnia and Herzegovina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.598, :matchwinratio2=>0.402, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"Nigeria", :goals1=>1, :goals2=>1, :matchwinratio1=>0.655, :matchwinratio2=>0.345, :winner=>"tie"}
+{:country1=>"Belgium", :country2=>"Costa Rica", :goals1=>2, :goals2=>1, :matchwinratio1=>0.679, :matchwinratio2=>0.321, :winner=>"Belgium"}
+{:country1=>"Belgium", :country2=>"Australia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.696, :matchwinratio2=>0.304, :winner=>"Belgium"}
+{:country1=>"Belgium", :country2=>"Iran", :goals1=>2, :goals2=>1, :matchwinratio1=>0.705, :matchwinratio2=>0.295, :winner=>"Belgium"}
+{:country1=>"Belgium", :country2=>"Ghana", :goals1=>2, :goals2=>1, :matchwinratio1=>0.723, :matchwinratio2=>0.277, :winner=>"Belgium"}
+{:country1=>"Belgium", :country2=>"South Korea", :goals1=>2, :goals2=>1, :matchwinratio1=>0.758, :matchwinratio2=>0.242, :winner=>"Belgium"}
+{:country1=>"Belgium", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.847, :matchwinratio2=>0.153, :winner=>"Belgium"}
+{:country1=>"Belgium", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.969, :matchwinratio2=>0.031, :winner=>"Belgium"}
+{:country1=>"Belgium", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Belgium"}
+{:country1=>"Russia", :country2=>"Brazil", :goals1=>1, :goals2=>2, :matchwinratio1=>0.3, :matchwinratio2=>0.7, :winner=>"Brazil"}
+{:country1=>"Russia", :country2=>"Spain", :goals1=>1, :goals2=>2, :matchwinratio1=>0.312, :matchwinratio2=>0.688, :winner=>"Spain"}
+{:country1=>"Russia", :country2=>"Germany", :goals1=>1, :goals2=>2, :matchwinratio1=>0.33, :matchwinratio2=>0.67, :winner=>"Germany"}
+{:country1=>"Russia", :country2=>"Argentina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.361, :matchwinratio2=>0.639, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.38, :matchwinratio2=>0.62, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.412, :matchwinratio2=>0.588, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.422, :matchwinratio2=>0.578, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.426, :matchwinratio2=>0.574, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.428, :matchwinratio2=>0.572, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.428, :matchwinratio2=>0.572, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.442, :matchwinratio2=>0.558, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.451, :matchwinratio2=>0.549, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.488, :matchwinratio2=>0.512, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.497, :matchwinratio2=>0.503, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.501, :matchwinratio2=>0.499, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.501, :matchwinratio2=>0.499, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.509, :matchwinratio2=>0.491, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.53, :matchwinratio2=>0.47, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.542, :matchwinratio2=>0.458, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.554, :matchwinratio2=>0.446, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.592, :matchwinratio2=>0.408, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"Bosnia and Herzegovina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.595, :matchwinratio2=>0.405, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"Nigeria", :goals1=>1, :goals2=>1, :matchwinratio1=>0.652, :matchwinratio2=>0.348, :winner=>"tie"}
+{:country1=>"Russia", :country2=>"Costa Rica", :goals1=>2, :goals2=>1, :matchwinratio1=>0.676, :matchwinratio2=>0.324, :winner=>"Russia"}
+{:country1=>"Russia", :country2=>"Australia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.693, :matchwinratio2=>0.307, :winner=>"Russia"}
+{:country1=>"Russia", :country2=>"Iran", :goals1=>2, :goals2=>1, :matchwinratio1=>0.702, :matchwinratio2=>0.298, :winner=>"Russia"}
+{:country1=>"Russia", :country2=>"Ghana", :goals1=>2, :goals2=>1, :matchwinratio1=>0.72, :matchwinratio2=>0.28, :winner=>"Russia"}
+{:country1=>"Russia", :country2=>"South Korea", :goals1=>2, :goals2=>1, :matchwinratio1=>0.755, :matchwinratio2=>0.245, :winner=>"Russia"}
+{:country1=>"Russia", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.846, :matchwinratio2=>0.154, :winner=>"Russia"}
+{:country1=>"Russia", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.969, :matchwinratio2=>0.031, :winner=>"Russia"}
+{:country1=>"Russia", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Russia"}
+{:country1=>"Mexico", :country2=>"Brazil", :goals1=>1, :goals2=>2, :matchwinratio1=>0.299, :matchwinratio2=>0.701, :winner=>"Brazil"}
+{:country1=>"Mexico", :country2=>"Spain", :goals1=>1, :goals2=>2, :matchwinratio1=>0.311, :matchwinratio2=>0.689, :winner=>"Spain"}
+{:country1=>"Mexico", :country2=>"Germany", :goals1=>1, :goals2=>2, :matchwinratio1=>0.329, :matchwinratio2=>0.671, :winner=>"Germany"}
+{:country1=>"Mexico", :country2=>"Argentina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.36, :matchwinratio2=>0.64, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.379, :matchwinratio2=>0.621, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.411, :matchwinratio2=>0.589, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.421, :matchwinratio2=>0.579, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.425, :matchwinratio2=>0.575, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.427, :matchwinratio2=>0.573, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.427, :matchwinratio2=>0.573, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.44, :matchwinratio2=>0.56, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.449, :matchwinratio2=>0.551, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.487, :matchwinratio2=>0.513, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.495, :matchwinratio2=>0.505, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.499, :matchwinratio2=>0.501, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.5, :matchwinratio2=>0.5, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.508, :matchwinratio2=>0.492, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.529, :matchwinratio2=>0.471, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.541, :matchwinratio2=>0.459, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.553, :matchwinratio2=>0.447, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.591, :matchwinratio2=>0.409, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"Bosnia and Herzegovina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.594, :matchwinratio2=>0.406, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"Nigeria", :goals1=>1, :goals2=>1, :matchwinratio1=>0.651, :matchwinratio2=>0.349, :winner=>"tie"}
+{:country1=>"Mexico", :country2=>"Costa Rica", :goals1=>2, :goals2=>1, :matchwinratio1=>0.675, :matchwinratio2=>0.325, :winner=>"Mexico"}
+{:country1=>"Mexico", :country2=>"Australia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.692, :matchwinratio2=>0.308, :winner=>"Mexico"}
+{:country1=>"Mexico", :country2=>"Iran", :goals1=>2, :goals2=>1, :matchwinratio1=>0.701, :matchwinratio2=>0.299, :winner=>"Mexico"}
+{:country1=>"Mexico", :country2=>"Ghana", :goals1=>2, :goals2=>1, :matchwinratio1=>0.719, :matchwinratio2=>0.281, :winner=>"Mexico"}
+{:country1=>"Mexico", :country2=>"South Korea", :goals1=>2, :goals2=>1, :matchwinratio1=>0.754, :matchwinratio2=>0.246, :winner=>"Mexico"}
+{:country1=>"Mexico", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.845, :matchwinratio2=>0.155, :winner=>"Mexico"}
+{:country1=>"Mexico", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.969, :matchwinratio2=>0.031, :winner=>"Mexico"}
+{:country1=>"Mexico", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Mexico"}
+{:country1=>"Switzerland", :country2=>"Brazil", :goals1=>1, :goals2=>2, :matchwinratio1=>0.299, :matchwinratio2=>0.701, :winner=>"Brazil"}
+{:country1=>"Switzerland", :country2=>"Spain", :goals1=>1, :goals2=>2, :matchwinratio1=>0.311, :matchwinratio2=>0.689, :winner=>"Spain"}
+{:country1=>"Switzerland", :country2=>"Germany", :goals1=>1, :goals2=>2, :matchwinratio1=>0.329, :matchwinratio2=>0.671, :winner=>"Germany"}
+{:country1=>"Switzerland", :country2=>"Argentina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.36, :matchwinratio2=>0.64, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.379, :matchwinratio2=>0.621, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.411, :matchwinratio2=>0.589, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.421, :matchwinratio2=>0.579, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.425, :matchwinratio2=>0.575, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.427, :matchwinratio2=>0.573, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.427, :matchwinratio2=>0.573, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.44, :matchwinratio2=>0.56, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.449, :matchwinratio2=>0.551, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.487, :matchwinratio2=>0.513, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.495, :matchwinratio2=>0.505, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.499, :matchwinratio2=>0.501, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.5, :matchwinratio2=>0.5, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.508, :matchwinratio2=>0.492, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.529, :matchwinratio2=>0.471, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.541, :matchwinratio2=>0.459, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.553, :matchwinratio2=>0.447, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.591, :matchwinratio2=>0.409, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"Bosnia and Herzegovina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.594, :matchwinratio2=>0.406, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"Nigeria", :goals1=>1, :goals2=>1, :matchwinratio1=>0.651, :matchwinratio2=>0.349, :winner=>"tie"}
+{:country1=>"Switzerland", :country2=>"Costa Rica", :goals1=>2, :goals2=>1, :matchwinratio1=>0.675, :matchwinratio2=>0.325, :winner=>"Switzerland"}
+{:country1=>"Switzerland", :country2=>"Australia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.692, :matchwinratio2=>0.308, :winner=>"Switzerland"}
+{:country1=>"Switzerland", :country2=>"Iran", :goals1=>2, :goals2=>1, :matchwinratio1=>0.701, :matchwinratio2=>0.299, :winner=>"Switzerland"}
+{:country1=>"Switzerland", :country2=>"Ghana", :goals1=>2, :goals2=>1, :matchwinratio1=>0.719, :matchwinratio2=>0.281, :winner=>"Switzerland"}
+{:country1=>"Switzerland", :country2=>"South Korea", :goals1=>2, :goals2=>1, :matchwinratio1=>0.754, :matchwinratio2=>0.246, :winner=>"Switzerland"}
+{:country1=>"Switzerland", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.845, :matchwinratio2=>0.155, :winner=>"Switzerland"}
+{:country1=>"Switzerland", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.969, :matchwinratio2=>0.031, :winner=>"Switzerland"}
+{:country1=>"Switzerland", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Switzerland"}
+{:country1=>"Ecuador", :country2=>"Brazil", :goals1=>1, :goals2=>2, :matchwinratio1=>0.292, :matchwinratio2=>0.708, :winner=>"Brazil"}
+{:country1=>"Ecuador", :country2=>"Spain", :goals1=>1, :goals2=>2, :matchwinratio1=>0.304, :matchwinratio2=>0.696, :winner=>"Spain"}
+{:country1=>"Ecuador", :country2=>"Germany", :goals1=>1, :goals2=>2, :matchwinratio1=>0.322, :matchwinratio2=>0.678, :winner=>"Germany"}
+{:country1=>"Ecuador", :country2=>"Argentina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.353, :matchwinratio2=>0.647, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.371, :matchwinratio2=>0.629, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.403, :matchwinratio2=>0.597, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.413, :matchwinratio2=>0.587, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.417, :matchwinratio2=>0.583, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.419, :matchwinratio2=>0.581, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.419, :matchwinratio2=>0.581, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.432, :matchwinratio2=>0.568, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.441, :matchwinratio2=>0.559, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.478, :matchwinratio2=>0.522, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.487, :matchwinratio2=>0.513, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.491, :matchwinratio2=>0.509, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.492, :matchwinratio2=>0.508, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.492, :matchwinratio2=>0.508, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.521, :matchwinratio2=>0.479, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.533, :matchwinratio2=>0.467, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.545, :matchwinratio2=>0.455, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.583, :matchwinratio2=>0.417, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"Bosnia and Herzegovina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.586, :matchwinratio2=>0.414, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"Nigeria", :goals1=>1, :goals2=>1, :matchwinratio1=>0.643, :matchwinratio2=>0.357, :winner=>"tie"}
+{:country1=>"Ecuador", :country2=>"Costa Rica", :goals1=>2, :goals2=>1, :matchwinratio1=>0.668, :matchwinratio2=>0.332, :winner=>"Ecuador"}
+{:country1=>"Ecuador", :country2=>"Australia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.685, :matchwinratio2=>0.315, :winner=>"Ecuador"}
+{:country1=>"Ecuador", :country2=>"Iran", :goals1=>2, :goals2=>1, :matchwinratio1=>0.694, :matchwinratio2=>0.306, :winner=>"Ecuador"}
+{:country1=>"Ecuador", :country2=>"Ghana", :goals1=>2, :goals2=>1, :matchwinratio1=>0.713, :matchwinratio2=>0.287, :winner=>"Ecuador"}
+{:country1=>"Ecuador", :country2=>"South Korea", :goals1=>2, :goals2=>1, :matchwinratio1=>0.748, :matchwinratio2=>0.252, :winner=>"Ecuador"}
+{:country1=>"Ecuador", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.841, :matchwinratio2=>0.159, :winner=>"Ecuador"}
+{:country1=>"Ecuador", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.968, :matchwinratio2=>0.032, :winner=>"Ecuador"}
+{:country1=>"Ecuador", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Ecuador"}
+{:country1=>"Greece", :country2=>"Brazil", :goals1=>1, :goals2=>2, :matchwinratio1=>0.275, :matchwinratio2=>0.725, :winner=>"Brazil"}
+{:country1=>"Greece", :country2=>"Spain", :goals1=>1, :goals2=>2, :matchwinratio1=>0.286, :matchwinratio2=>0.714, :winner=>"Spain"}
+{:country1=>"Greece", :country2=>"Germany", :goals1=>1, :goals2=>2, :matchwinratio1=>0.304, :matchwinratio2=>0.696, :winner=>"Germany"}
+{:country1=>"Greece", :country2=>"Argentina", :goals1=>1, :goals2=>2, :matchwinratio1=>0.334, :matchwinratio2=>0.666, :winner=>"Argentina"}
+{:country1=>"Greece", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.352, :matchwinratio2=>0.648, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.383, :matchwinratio2=>0.617, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.393, :matchwinratio2=>0.607, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.397, :matchwinratio2=>0.603, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.398, :matchwinratio2=>0.602, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.398, :matchwinratio2=>0.602, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.412, :matchwinratio2=>0.588, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.421, :matchwinratio2=>0.579, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.458, :matchwinratio2=>0.542, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.466, :matchwinratio2=>0.534, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.47, :matchwinratio2=>0.53, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.471, :matchwinratio2=>0.529, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.471, :matchwinratio2=>0.529, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.479, :matchwinratio2=>0.521, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.512, :matchwinratio2=>0.488, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.524, :matchwinratio2=>0.476, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.562, :matchwinratio2=>0.438, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"Bosnia and Herzegovina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.566, :matchwinratio2=>0.434, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"Nigeria", :goals1=>1, :goals2=>1, :matchwinratio1=>0.624, :matchwinratio2=>0.376, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"Costa Rica", :goals1=>1, :goals2=>1, :matchwinratio1=>0.649, :matchwinratio2=>0.351, :winner=>"tie"}
+{:country1=>"Greece", :country2=>"Australia", :goals1=>2, :goals2=>1, :matchwinratio1=>0.667, :matchwinratio2=>0.333, :winner=>"Greece"}
+{:country1=>"Greece", :country2=>"Iran", :goals1=>2, :goals2=>1, :matchwinratio1=>0.676, :matchwinratio2=>0.324, :winner=>"Greece"}
+{:country1=>"Greece", :country2=>"Ghana", :goals1=>2, :goals2=>1, :matchwinratio1=>0.695, :matchwinratio2=>0.305, :winner=>"Greece"}
+{:country1=>"Greece", :country2=>"South Korea", :goals1=>2, :goals2=>1, :matchwinratio1=>0.732, :matchwinratio2=>0.268, :winner=>"Greece"}
+{:country1=>"Greece", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.829, :matchwinratio2=>0.171, :winner=>"Greece"}
+{:country1=>"Greece", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.965, :matchwinratio2=>0.035, :winner=>"Greece"}
+{:country1=>"Greece", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Greece"}
+{:country1=>"Croatia", :country2=>"Brazil", :goals1=>1, :goals2=>2, :matchwinratio1=>0.266, :matchwinratio2=>0.734, :winner=>"Brazil"}
+{:country1=>"Croatia", :country2=>"Spain", :goals1=>1, :goals2=>2, :matchwinratio1=>0.277, :matchwinratio2=>0.723, :winner=>"Spain"}
+{:country1=>"Croatia", :country2=>"Germany", :goals1=>1, :goals2=>2, :matchwinratio1=>0.294, :matchwinratio2=>0.706, :winner=>"Germany"}
+{:country1=>"Croatia", :country2=>"Argentina", :goals1=>1, :goals2=>2, :matchwinratio1=>0.323, :matchwinratio2=>0.677, :winner=>"Argentina"}
+{:country1=>"Croatia", :country2=>"Netherlands", :goals1=>1, :goals2=>1, :matchwinratio1=>0.341, :matchwinratio2=>0.659, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.372, :matchwinratio2=>0.628, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.381, :matchwinratio2=>0.619, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.385, :matchwinratio2=>0.615, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.387, :matchwinratio2=>0.613, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.387, :matchwinratio2=>0.613, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.4, :matchwinratio2=>0.6, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.409, :matchwinratio2=>0.591, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.446, :matchwinratio2=>0.554, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.455, :matchwinratio2=>0.545, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.458, :matchwinratio2=>0.542, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.459, :matchwinratio2=>0.541, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.459, :matchwinratio2=>0.541, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.467, :matchwinratio2=>0.533, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.488, :matchwinratio2=>0.512, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.512, :matchwinratio2=>0.488, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.551, :matchwinratio2=>0.449, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"Bosnia and Herzegovina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.554, :matchwinratio2=>0.446, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"Nigeria", :goals1=>1, :goals2=>1, :matchwinratio1=>0.613, :matchwinratio2=>0.387, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"Costa Rica", :goals1=>1, :goals2=>1, :matchwinratio1=>0.638, :matchwinratio2=>0.362, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"Australia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.656, :matchwinratio2=>0.344, :winner=>"tie"}
+{:country1=>"Croatia", :country2=>"Iran", :goals1=>2, :goals2=>1, :matchwinratio1=>0.665, :matchwinratio2=>0.335, :winner=>"Croatia"}
+{:country1=>"Croatia", :country2=>"Ghana", :goals1=>2, :goals2=>1, :matchwinratio1=>0.685, :matchwinratio2=>0.315, :winner=>"Croatia"}
+{:country1=>"Croatia", :country2=>"South Korea", :goals1=>2, :goals2=>1, :matchwinratio1=>0.723, :matchwinratio2=>0.277, :winner=>"Croatia"}
+{:country1=>"Croatia", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.822, :matchwinratio2=>0.178, :winner=>"Croatia"}
+{:country1=>"Croatia", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.964, :matchwinratio2=>0.036, :winner=>"Croatia"}
+{:country1=>"Croatia", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Croatia"}
+{:country1=>"Ivory Coast", :country2=>"Brazil", :goals1=>1, :goals2=>2, :matchwinratio1=>0.256, :matchwinratio2=>0.744, :winner=>"Brazil"}
+{:country1=>"Ivory Coast", :country2=>"Spain", :goals1=>1, :goals2=>2, :matchwinratio1=>0.267, :matchwinratio2=>0.733, :winner=>"Spain"}
+{:country1=>"Ivory Coast", :country2=>"Germany", :goals1=>1, :goals2=>2, :matchwinratio1=>0.284, :matchwinratio2=>0.716, :winner=>"Germany"}
+{:country1=>"Ivory Coast", :country2=>"Argentina", :goals1=>1, :goals2=>2, :matchwinratio1=>0.313, :matchwinratio2=>0.687, :winner=>"Argentina"}
+{:country1=>"Ivory Coast", :country2=>"Netherlands", :goals1=>1, :goals2=>2, :matchwinratio1=>0.33, :matchwinratio2=>0.67, :winner=>"Netherlands"}
+{:country1=>"Ivory Coast", :country2=>"England", :goals1=>1, :goals2=>1, :matchwinratio1=>0.361, :matchwinratio2=>0.639, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Portugal", :goals1=>1, :goals2=>1, :matchwinratio1=>0.37, :matchwinratio2=>0.63, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Colombia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.374, :matchwinratio2=>0.626, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.375, :matchwinratio2=>0.625, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.375, :matchwinratio2=>0.625, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.389, :matchwinratio2=>0.611, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.397, :matchwinratio2=>0.603, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.433, :matchwinratio2=>0.567, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.442, :matchwinratio2=>0.558, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.446, :matchwinratio2=>0.554, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.447, :matchwinratio2=>0.553, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.447, :matchwinratio2=>0.553, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.455, :matchwinratio2=>0.545, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.476, :matchwinratio2=>0.524, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.488, :matchwinratio2=>0.512, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.538, :matchwinratio2=>0.462, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Bosnia and Herzegovina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.542, :matchwinratio2=>0.458, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Nigeria", :goals1=>1, :goals2=>1, :matchwinratio1=>0.601, :matchwinratio2=>0.399, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Costa Rica", :goals1=>1, :goals2=>1, :matchwinratio1=>0.626, :matchwinratio2=>0.374, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Australia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.645, :matchwinratio2=>0.355, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Iran", :goals1=>1, :goals2=>1, :matchwinratio1=>0.654, :matchwinratio2=>0.346, :winner=>"tie"}
+{:country1=>"Ivory Coast", :country2=>"Ghana", :goals1=>2, :goals2=>1, :matchwinratio1=>0.674, :matchwinratio2=>0.326, :winner=>"Ivory Coast"}
+{:country1=>"Ivory Coast", :country2=>"South Korea", :goals1=>2, :goals2=>1, :matchwinratio1=>0.713, :matchwinratio2=>0.287, :winner=>"Ivory Coast"}
+{:country1=>"Ivory Coast", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.815, :matchwinratio2=>0.185, :winner=>"Ivory Coast"}
+{:country1=>"Ivory Coast", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.962, :matchwinratio2=>0.038, :winner=>"Ivory Coast"}
+{:country1=>"Ivory Coast", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Ivory Coast"}
+{:country1=>"Japan", :country2=>"Brazil", :goals1=>1, :goals2=>2, :matchwinratio1=>0.228, :matchwinratio2=>0.772, :winner=>"Brazil"}
+{:country1=>"Japan", :country2=>"Spain", :goals1=>1, :goals2=>2, :matchwinratio1=>0.238, :matchwinratio2=>0.762, :winner=>"Spain"}
+{:country1=>"Japan", :country2=>"Germany", :goals1=>1, :goals2=>2, :matchwinratio1=>0.254, :matchwinratio2=>0.746, :winner=>"Germany"}
+{:country1=>"Japan", :country2=>"Argentina", :goals1=>1, :goals2=>2, :matchwinratio1=>0.281, :matchwinratio2=>0.719, :winner=>"Argentina"}
+{:country1=>"Japan", :country2=>"Netherlands", :goals1=>1, :goals2=>2, :matchwinratio1=>0.297, :matchwinratio2=>0.703, :winner=>"Netherlands"}
+{:country1=>"Japan", :country2=>"England", :goals1=>1, :goals2=>2, :matchwinratio1=>0.326, :matchwinratio2=>0.674, :winner=>"England"}
+{:country1=>"Japan", :country2=>"Portugal", :goals1=>1, :goals2=>2, :matchwinratio1=>0.335, :matchwinratio2=>0.665, :winner=>"Portugal"}
+{:country1=>"Japan", :country2=>"Colombia", :goals1=>1, :goals2=>2, :matchwinratio1=>0.339, :matchwinratio2=>0.661, :winner=>"Colombia"}
+{:country1=>"Japan", :country2=>"Uruguay", :goals1=>1, :goals2=>1, :matchwinratio1=>0.34, :matchwinratio2=>0.66, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"Chile", :goals1=>1, :goals2=>1, :matchwinratio1=>0.34, :matchwinratio2=>0.66, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.353, :matchwinratio2=>0.647, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.361, :matchwinratio2=>0.639, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.396, :matchwinratio2=>0.604, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.405, :matchwinratio2=>0.595, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.408, :matchwinratio2=>0.592, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.409, :matchwinratio2=>0.591, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.409, :matchwinratio2=>0.591, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.417, :matchwinratio2=>0.583, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.438, :matchwinratio2=>0.562, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.449, :matchwinratio2=>0.551, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.462, :matchwinratio2=>0.538, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"Bosnia and Herzegovina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.503, :matchwinratio2=>0.497, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"Nigeria", :goals1=>1, :goals2=>1, :matchwinratio1=>0.563, :matchwinratio2=>0.437, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"Costa Rica", :goals1=>1, :goals2=>1, :matchwinratio1=>0.59, :matchwinratio2=>0.41, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"Australia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.609, :matchwinratio2=>0.391, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"Iran", :goals1=>1, :goals2=>1, :matchwinratio1=>0.619, :matchwinratio2=>0.381, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"Ghana", :goals1=>1, :goals2=>1, :matchwinratio1=>0.64, :matchwinratio2=>0.36, :winner=>"tie"}
+{:country1=>"Japan", :country2=>"South Korea", :goals1=>2, :goals2=>1, :matchwinratio1=>0.68, :matchwinratio2=>0.32, :winner=>"Japan"}
+{:country1=>"Japan", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.791, :matchwinratio2=>0.209, :winner=>"Japan"}
+{:country1=>"Japan", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.956, :matchwinratio2=>0.044, :winner=>"Japan"}
+{:country1=>"Japan", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Japan"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Brazil", :goals1=>1, :goals2=>2, :matchwinratio1=>0.226, :matchwinratio2=>0.774, :winner=>"Brazil"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Spain", :goals1=>1, :goals2=>2, :matchwinratio1=>0.235, :matchwinratio2=>0.765, :winner=>"Spain"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Germany", :goals1=>1, :goals2=>2, :matchwinratio1=>0.251, :matchwinratio2=>0.749, :winner=>"Germany"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Argentina", :goals1=>1, :goals2=>2, :matchwinratio1=>0.278, :matchwinratio2=>0.722, :winner=>"Argentina"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Netherlands", :goals1=>1, :goals2=>2, :matchwinratio1=>0.294, :matchwinratio2=>0.706, :winner=>"Netherlands"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"England", :goals1=>1, :goals2=>2, :matchwinratio1=>0.323, :matchwinratio2=>0.677, :winner=>"England"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Portugal", :goals1=>1, :goals2=>2, :matchwinratio1=>0.332, :matchwinratio2=>0.668, :winner=>"Portugal"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Colombia", :goals1=>1, :goals2=>2, :matchwinratio1=>0.336, :matchwinratio2=>0.664, :winner=>"Colombia"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Uruguay", :goals1=>1, :goals2=>2, :matchwinratio1=>0.337, :matchwinratio2=>0.663, :winner=>"Uruguay"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Chile", :goals1=>1, :goals2=>2, :matchwinratio1=>0.337, :matchwinratio2=>0.663, :winner=>"Chile"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Italy", :goals1=>1, :goals2=>1, :matchwinratio1=>0.35, :matchwinratio2=>0.65, :winner=>"tie"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"France", :goals1=>1, :goals2=>1, :matchwinratio1=>0.358, :matchwinratio2=>0.642, :winner=>"tie"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"United States", :goals1=>1, :goals2=>1, :matchwinratio1=>0.393, :matchwinratio2=>0.607, :winner=>"tie"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.402, :matchwinratio2=>0.598, :winner=>"tie"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.405, :matchwinratio2=>0.595, :winner=>"tie"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.406, :matchwinratio2=>0.594, :winner=>"tie"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.406, :matchwinratio2=>0.594, :winner=>"tie"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.414, :matchwinratio2=>0.586, :winner=>"tie"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.434, :matchwinratio2=>0.566, :winner=>"tie"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.446, :matchwinratio2=>0.554, :winner=>"tie"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.458, :matchwinratio2=>0.542, :winner=>"tie"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.497, :matchwinratio2=>0.503, :winner=>"tie"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Nigeria", :goals1=>1, :goals2=>1, :matchwinratio1=>0.56, :matchwinratio2=>0.44, :winner=>"tie"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Costa Rica", :goals1=>1, :goals2=>1, :matchwinratio1=>0.587, :matchwinratio2=>0.413, :winner=>"tie"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Australia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.606, :matchwinratio2=>0.394, :winner=>"tie"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Iran", :goals1=>1, :goals2=>1, :matchwinratio1=>0.616, :matchwinratio2=>0.384, :winner=>"tie"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Ghana", :goals1=>1, :goals2=>1, :matchwinratio1=>0.637, :matchwinratio2=>0.363, :winner=>"tie"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"South Korea", :goals1=>2, :goals2=>1, :matchwinratio1=>0.677, :matchwinratio2=>0.323, :winner=>"Bosnia and Herzegovina"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Honduras", :goals1=>2, :goals2=>0, :matchwinratio1=>0.788, :matchwinratio2=>0.212, :winner=>"Bosnia and Herzegovina"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.955, :matchwinratio2=>0.045, :winner=>"Bosnia and Herzegovina"}
+{:country1=>"Bosnia and Herzegovina", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Bosnia and Herzegovina"}
+{:country1=>"Nigeria", :country2=>"Brazil", :goals1=>0, :goals2=>2, :matchwinratio1=>0.186, :matchwinratio2=>0.814, :winner=>"Brazil"}
+{:country1=>"Nigeria", :country2=>"Spain", :goals1=>0, :goals2=>2, :matchwinratio1=>0.195, :matchwinratio2=>0.805, :winner=>"Spain"}
+{:country1=>"Nigeria", :country2=>"Germany", :goals1=>0, :goals2=>2, :matchwinratio1=>0.209, :matchwinratio2=>0.791, :winner=>"Germany"}
+{:country1=>"Nigeria", :country2=>"Argentina", :goals1=>1, :goals2=>2, :matchwinratio1=>0.232, :matchwinratio2=>0.768, :winner=>"Argentina"}
+{:country1=>"Nigeria", :country2=>"Netherlands", :goals1=>1, :goals2=>2, :matchwinratio1=>0.247, :matchwinratio2=>0.753, :winner=>"Netherlands"}
+{:country1=>"Nigeria", :country2=>"England", :goals1=>1, :goals2=>2, :matchwinratio1=>0.273, :matchwinratio2=>0.727, :winner=>"England"}
+{:country1=>"Nigeria", :country2=>"Portugal", :goals1=>1, :goals2=>2, :matchwinratio1=>0.281, :matchwinratio2=>0.719, :winner=>"Portugal"}
+{:country1=>"Nigeria", :country2=>"Colombia", :goals1=>1, :goals2=>2, :matchwinratio1=>0.284, :matchwinratio2=>0.716, :winner=>"Colombia"}
+{:country1=>"Nigeria", :country2=>"Uruguay", :goals1=>1, :goals2=>2, :matchwinratio1=>0.285, :matchwinratio2=>0.715, :winner=>"Uruguay"}
+{:country1=>"Nigeria", :country2=>"Chile", :goals1=>1, :goals2=>2, :matchwinratio1=>0.285, :matchwinratio2=>0.715, :winner=>"Chile"}
+{:country1=>"Nigeria", :country2=>"Italy", :goals1=>1, :goals2=>2, :matchwinratio1=>0.297, :matchwinratio2=>0.703, :winner=>"Italy"}
+{:country1=>"Nigeria", :country2=>"France", :goals1=>1, :goals2=>2, :matchwinratio1=>0.305, :matchwinratio2=>0.695, :winner=>"France"}
+{:country1=>"Nigeria", :country2=>"United States", :goals1=>1, :goals2=>2, :matchwinratio1=>0.337, :matchwinratio2=>0.663, :winner=>"United States"}
+{:country1=>"Nigeria", :country2=>"Belgium", :goals1=>1, :goals2=>1, :matchwinratio1=>0.345, :matchwinratio2=>0.655, :winner=>"tie"}
+{:country1=>"Nigeria", :country2=>"Russia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.348, :matchwinratio2=>0.652, :winner=>"tie"}
+{:country1=>"Nigeria", :country2=>"Mexico", :goals1=>1, :goals2=>1, :matchwinratio1=>0.349, :matchwinratio2=>0.651, :winner=>"tie"}
+{:country1=>"Nigeria", :country2=>"Switzerland", :goals1=>1, :goals2=>1, :matchwinratio1=>0.349, :matchwinratio2=>0.651, :winner=>"tie"}
+{:country1=>"Nigeria", :country2=>"Ecuador", :goals1=>1, :goals2=>1, :matchwinratio1=>0.357, :matchwinratio2=>0.643, :winner=>"tie"}
+{:country1=>"Nigeria", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.376, :matchwinratio2=>0.624, :winner=>"tie"}
+{:country1=>"Nigeria", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.387, :matchwinratio2=>0.613, :winner=>"tie"}
+{:country1=>"Nigeria", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.399, :matchwinratio2=>0.601, :winner=>"tie"}
+{:country1=>"Nigeria", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.437, :matchwinratio2=>0.563, :winner=>"tie"}
+{:country1=>"Nigeria", :country2=>"Bosnia and Herzegovina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.44, :matchwinratio2=>0.56, :winner=>"tie"}
+{:country1=>"Nigeria", :country2=>"Costa Rica", :goals1=>1, :goals2=>1, :matchwinratio1=>0.527, :matchwinratio2=>0.473, :winner=>"tie"}
+{:country1=>"Nigeria", :country2=>"Australia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.547, :matchwinratio2=>0.453, :winner=>"tie"}
+{:country1=>"Nigeria", :country2=>"Iran", :goals1=>1, :goals2=>1, :matchwinratio1=>0.557, :matchwinratio2=>0.443, :winner=>"tie"}
+{:country1=>"Nigeria", :country2=>"Ghana", :goals1=>1, :goals2=>1, :matchwinratio1=>0.579, :matchwinratio2=>0.421, :winner=>"tie"}
+{:country1=>"Nigeria", :country2=>"South Korea", :goals1=>1, :goals2=>1, :matchwinratio1=>0.622, :matchwinratio2=>0.378, :winner=>"tie"}
+{:country1=>"Nigeria", :country2=>"Honduras", :goals1=>2, :goals2=>1, :matchwinratio1=>0.745, :matchwinratio2=>0.255, :winner=>"Nigeria"}
+{:country1=>"Nigeria", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.944, :matchwinratio2=>0.056, :winner=>"Nigeria"}
+{:country1=>"Nigeria", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Nigeria"}
+{:country1=>"Costa Rica", :country2=>"Brazil", :goals1=>0, :goals2=>2, :matchwinratio1=>0.17, :matchwinratio2=>0.83, :winner=>"Brazil"}
+{:country1=>"Costa Rica", :country2=>"Spain", :goals1=>0, :goals2=>2, :matchwinratio1=>0.178, :matchwinratio2=>0.822, :winner=>"Spain"}
+{:country1=>"Costa Rica", :country2=>"Germany", :goals1=>0, :goals2=>2, :matchwinratio1=>0.191, :matchwinratio2=>0.809, :winner=>"Germany"}
+{:country1=>"Costa Rica", :country2=>"Argentina", :goals1=>0, :goals2=>2, :matchwinratio1=>0.213, :matchwinratio2=>0.787, :winner=>"Argentina"}
+{:country1=>"Costa Rica", :country2=>"Netherlands", :goals1=>1, :goals2=>2, :matchwinratio1=>0.227, :matchwinratio2=>0.773, :winner=>"Netherlands"}
+{:country1=>"Costa Rica", :country2=>"England", :goals1=>1, :goals2=>2, :matchwinratio1=>0.252, :matchwinratio2=>0.748, :winner=>"England"}
+{:country1=>"Costa Rica", :country2=>"Portugal", :goals1=>1, :goals2=>2, :matchwinratio1=>0.259, :matchwinratio2=>0.741, :winner=>"Portugal"}
+{:country1=>"Costa Rica", :country2=>"Colombia", :goals1=>1, :goals2=>2, :matchwinratio1=>0.263, :matchwinratio2=>0.738, :winner=>"Colombia"}
+{:country1=>"Costa Rica", :country2=>"Uruguay", :goals1=>1, :goals2=>2, :matchwinratio1=>0.264, :matchwinratio2=>0.736, :winner=>"Uruguay"}
+{:country1=>"Costa Rica", :country2=>"Chile", :goals1=>1, :goals2=>2, :matchwinratio1=>0.264, :matchwinratio2=>0.736, :winner=>"Chile"}
+{:country1=>"Costa Rica", :country2=>"Italy", :goals1=>1, :goals2=>2, :matchwinratio1=>0.275, :matchwinratio2=>0.725, :winner=>"Italy"}
+{:country1=>"Costa Rica", :country2=>"France", :goals1=>1, :goals2=>2, :matchwinratio1=>0.282, :matchwinratio2=>0.718, :winner=>"France"}
+{:country1=>"Costa Rica", :country2=>"United States", :goals1=>1, :goals2=>2, :matchwinratio1=>0.313, :matchwinratio2=>0.687, :winner=>"United States"}
+{:country1=>"Costa Rica", :country2=>"Belgium", :goals1=>1, :goals2=>2, :matchwinratio1=>0.321, :matchwinratio2=>0.679, :winner=>"Belgium"}
+{:country1=>"Costa Rica", :country2=>"Russia", :goals1=>1, :goals2=>2, :matchwinratio1=>0.324, :matchwinratio2=>0.676, :winner=>"Russia"}
+{:country1=>"Costa Rica", :country2=>"Mexico", :goals1=>1, :goals2=>2, :matchwinratio1=>0.325, :matchwinratio2=>0.675, :winner=>"Mexico"}
+{:country1=>"Costa Rica", :country2=>"Switzerland", :goals1=>1, :goals2=>2, :matchwinratio1=>0.325, :matchwinratio2=>0.675, :winner=>"Switzerland"}
+{:country1=>"Costa Rica", :country2=>"Ecuador", :goals1=>1, :goals2=>2, :matchwinratio1=>0.332, :matchwinratio2=>0.668, :winner=>"Ecuador"}
+{:country1=>"Costa Rica", :country2=>"Greece", :goals1=>1, :goals2=>1, :matchwinratio1=>0.351, :matchwinratio2=>0.649, :winner=>"tie"}
+{:country1=>"Costa Rica", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.362, :matchwinratio2=>0.638, :winner=>"tie"}
+{:country1=>"Costa Rica", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.374, :matchwinratio2=>0.626, :winner=>"tie"}
+{:country1=>"Costa Rica", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.41, :matchwinratio2=>0.59, :winner=>"tie"}
+{:country1=>"Costa Rica", :country2=>"Bosnia and Herzegovina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.413, :matchwinratio2=>0.587, :winner=>"tie"}
+{:country1=>"Costa Rica", :country2=>"Nigeria", :goals1=>1, :goals2=>1, :matchwinratio1=>0.473, :matchwinratio2=>0.527, :winner=>"tie"}
+{:country1=>"Costa Rica", :country2=>"Australia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.52, :matchwinratio2=>0.48, :winner=>"tie"}
+{:country1=>"Costa Rica", :country2=>"Iran", :goals1=>1, :goals2=>1, :matchwinratio1=>0.53, :matchwinratio2=>0.47, :winner=>"tie"}
+{:country1=>"Costa Rica", :country2=>"Ghana", :goals1=>1, :goals2=>1, :matchwinratio1=>0.553, :matchwinratio2=>0.447, :winner=>"tie"}
+{:country1=>"Costa Rica", :country2=>"South Korea", :goals1=>1, :goals2=>1, :matchwinratio1=>0.597, :matchwinratio2=>0.403, :winner=>"tie"}
+{:country1=>"Costa Rica", :country2=>"Honduras", :goals1=>2, :goals2=>1, :matchwinratio1=>0.724, :matchwinratio2=>0.276, :winner=>"Costa Rica"}
+{:country1=>"Costa Rica", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.938, :matchwinratio2=>0.063, :winner=>"Costa Rica"}
+{:country1=>"Costa Rica", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Costa Rica"}
+{:country1=>"Australia", :country2=>"Brazil", :goals1=>0, :goals2=>2, :matchwinratio1=>0.16, :matchwinratio2=>0.84, :winner=>"Brazil"}
+{:country1=>"Australia", :country2=>"Spain", :goals1=>0, :goals2=>2, :matchwinratio1=>0.167, :matchwinratio2=>0.833, :winner=>"Spain"}
+{:country1=>"Australia", :country2=>"Germany", :goals1=>0, :goals2=>2, :matchwinratio1=>0.179, :matchwinratio2=>0.821, :winner=>"Germany"}
+{:country1=>"Australia", :country2=>"Argentina", :goals1=>0, :goals2=>2, :matchwinratio1=>0.2, :matchwinratio2=>0.8, :winner=>"Argentina"}
+{:country1=>"Australia", :country2=>"Netherlands", :goals1=>0, :goals2=>2, :matchwinratio1=>0.214, :matchwinratio2=>0.786, :winner=>"Netherlands"}
+{:country1=>"Australia", :country2=>"England", :goals1=>1, :goals2=>2, :matchwinratio1=>0.237, :matchwinratio2=>0.763, :winner=>"England"}
+{:country1=>"Australia", :country2=>"Portugal", :goals1=>1, :goals2=>2, :matchwinratio1=>0.244, :matchwinratio2=>0.756, :winner=>"Portugal"}
+{:country1=>"Australia", :country2=>"Colombia", :goals1=>1, :goals2=>2, :matchwinratio1=>0.247, :matchwinratio2=>0.753, :winner=>"Colombia"}
+{:country1=>"Australia", :country2=>"Uruguay", :goals1=>1, :goals2=>2, :matchwinratio1=>0.249, :matchwinratio2=>0.751, :winner=>"Uruguay"}
+{:country1=>"Australia", :country2=>"Chile", :goals1=>1, :goals2=>2, :matchwinratio1=>0.249, :matchwinratio2=>0.751, :winner=>"Chile"}
+{:country1=>"Australia", :country2=>"Italy", :goals1=>1, :goals2=>2, :matchwinratio1=>0.259, :matchwinratio2=>0.741, :winner=>"Italy"}
+{:country1=>"Australia", :country2=>"France", :goals1=>1, :goals2=>2, :matchwinratio1=>0.266, :matchwinratio2=>0.734, :winner=>"France"}
+{:country1=>"Australia", :country2=>"United States", :goals1=>1, :goals2=>2, :matchwinratio1=>0.297, :matchwinratio2=>0.703, :winner=>"United States"}
+{:country1=>"Australia", :country2=>"Belgium", :goals1=>1, :goals2=>2, :matchwinratio1=>0.304, :matchwinratio2=>0.696, :winner=>"Belgium"}
+{:country1=>"Australia", :country2=>"Russia", :goals1=>1, :goals2=>2, :matchwinratio1=>0.307, :matchwinratio2=>0.693, :winner=>"Russia"}
+{:country1=>"Australia", :country2=>"Mexico", :goals1=>1, :goals2=>2, :matchwinratio1=>0.308, :matchwinratio2=>0.692, :winner=>"Mexico"}
+{:country1=>"Australia", :country2=>"Switzerland", :goals1=>1, :goals2=>2, :matchwinratio1=>0.308, :matchwinratio2=>0.692, :winner=>"Switzerland"}
+{:country1=>"Australia", :country2=>"Ecuador", :goals1=>1, :goals2=>2, :matchwinratio1=>0.315, :matchwinratio2=>0.685, :winner=>"Ecuador"}
+{:country1=>"Australia", :country2=>"Greece", :goals1=>1, :goals2=>2, :matchwinratio1=>0.333, :matchwinratio2=>0.667, :winner=>"Greece"}
+{:country1=>"Australia", :country2=>"Croatia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.344, :matchwinratio2=>0.656, :winner=>"tie"}
+{:country1=>"Australia", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.355, :matchwinratio2=>0.645, :winner=>"tie"}
+{:country1=>"Australia", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.391, :matchwinratio2=>0.609, :winner=>"tie"}
+{:country1=>"Australia", :country2=>"Bosnia and Herzegovina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.394, :matchwinratio2=>0.606, :winner=>"tie"}
+{:country1=>"Australia", :country2=>"Nigeria", :goals1=>1, :goals2=>1, :matchwinratio1=>0.453, :matchwinratio2=>0.547, :winner=>"tie"}
+{:country1=>"Australia", :country2=>"Costa Rica", :goals1=>1, :goals2=>1, :matchwinratio1=>0.48, :matchwinratio2=>0.52, :winner=>"tie"}
+{:country1=>"Australia", :country2=>"Iran", :goals1=>1, :goals2=>1, :matchwinratio1=>0.511, :matchwinratio2=>0.489, :winner=>"tie"}
+{:country1=>"Australia", :country2=>"Ghana", :goals1=>1, :goals2=>1, :matchwinratio1=>0.533, :matchwinratio2=>0.467, :winner=>"tie"}
+{:country1=>"Australia", :country2=>"South Korea", :goals1=>1, :goals2=>1, :matchwinratio1=>0.577, :matchwinratio2=>0.423, :winner=>"tie"}
+{:country1=>"Australia", :country2=>"Honduras", :goals1=>2, :goals2=>1, :matchwinratio1=>0.708, :matchwinratio2=>0.292, :winner=>"Australia"}
+{:country1=>"Australia", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.933, :matchwinratio2=>0.067, :winner=>"Australia"}
+{:country1=>"Australia", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Australia"}
+{:country1=>"Iran", :country2=>"Brazil", :goals1=>0, :goals2=>2, :matchwinratio1=>0.154, :matchwinratio2=>0.846, :winner=>"Brazil"}
+{:country1=>"Iran", :country2=>"Spain", :goals1=>0, :goals2=>2, :matchwinratio1=>0.161, :matchwinratio2=>0.839, :winner=>"Spain"}
+{:country1=>"Iran", :country2=>"Germany", :goals1=>0, :goals2=>2, :matchwinratio1=>0.173, :matchwinratio2=>0.827, :winner=>"Germany"}
+{:country1=>"Iran", :country2=>"Argentina", :goals1=>0, :goals2=>2, :matchwinratio1=>0.194, :matchwinratio2=>0.806, :winner=>"Argentina"}
+{:country1=>"Iran", :country2=>"Netherlands", :goals1=>0, :goals2=>2, :matchwinratio1=>0.207, :matchwinratio2=>0.793, :winner=>"Netherlands"}
+{:country1=>"Iran", :country2=>"England", :goals1=>1, :goals2=>2, :matchwinratio1=>0.23, :matchwinratio2=>0.77, :winner=>"England"}
+{:country1=>"Iran", :country2=>"Portugal", :goals1=>1, :goals2=>2, :matchwinratio1=>0.237, :matchwinratio2=>0.763, :winner=>"Portugal"}
+{:country1=>"Iran", :country2=>"Colombia", :goals1=>1, :goals2=>2, :matchwinratio1=>0.24, :matchwinratio2=>0.76, :winner=>"Colombia"}
+{:country1=>"Iran", :country2=>"Uruguay", :goals1=>1, :goals2=>2, :matchwinratio1=>0.241, :matchwinratio2=>0.759, :winner=>"Uruguay"}
+{:country1=>"Iran", :country2=>"Chile", :goals1=>1, :goals2=>2, :matchwinratio1=>0.241, :matchwinratio2=>0.759, :winner=>"Chile"}
+{:country1=>"Iran", :country2=>"Italy", :goals1=>1, :goals2=>2, :matchwinratio1=>0.251, :matchwinratio2=>0.749, :winner=>"Italy"}
+{:country1=>"Iran", :country2=>"France", :goals1=>1, :goals2=>2, :matchwinratio1=>0.258, :matchwinratio2=>0.742, :winner=>"France"}
+{:country1=>"Iran", :country2=>"United States", :goals1=>1, :goals2=>2, :matchwinratio1=>0.288, :matchwinratio2=>0.712, :winner=>"United States"}
+{:country1=>"Iran", :country2=>"Belgium", :goals1=>1, :goals2=>2, :matchwinratio1=>0.295, :matchwinratio2=>0.705, :winner=>"Belgium"}
+{:country1=>"Iran", :country2=>"Russia", :goals1=>1, :goals2=>2, :matchwinratio1=>0.298, :matchwinratio2=>0.702, :winner=>"Russia"}
+{:country1=>"Iran", :country2=>"Mexico", :goals1=>1, :goals2=>2, :matchwinratio1=>0.299, :matchwinratio2=>0.701, :winner=>"Mexico"}
+{:country1=>"Iran", :country2=>"Switzerland", :goals1=>1, :goals2=>2, :matchwinratio1=>0.299, :matchwinratio2=>0.701, :winner=>"Switzerland"}
+{:country1=>"Iran", :country2=>"Ecuador", :goals1=>1, :goals2=>2, :matchwinratio1=>0.306, :matchwinratio2=>0.694, :winner=>"Ecuador"}
+{:country1=>"Iran", :country2=>"Greece", :goals1=>1, :goals2=>2, :matchwinratio1=>0.324, :matchwinratio2=>0.676, :winner=>"Greece"}
+{:country1=>"Iran", :country2=>"Croatia", :goals1=>1, :goals2=>2, :matchwinratio1=>0.335, :matchwinratio2=>0.665, :winner=>"Croatia"}
+{:country1=>"Iran", :country2=>"Ivory Coast", :goals1=>1, :goals2=>1, :matchwinratio1=>0.346, :matchwinratio2=>0.654, :winner=>"tie"}
+{:country1=>"Iran", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.381, :matchwinratio2=>0.619, :winner=>"tie"}
+{:country1=>"Iran", :country2=>"Bosnia and Herzegovina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.384, :matchwinratio2=>0.616, :winner=>"tie"}
+{:country1=>"Iran", :country2=>"Nigeria", :goals1=>1, :goals2=>1, :matchwinratio1=>0.443, :matchwinratio2=>0.557, :winner=>"tie"}
+{:country1=>"Iran", :country2=>"Costa Rica", :goals1=>1, :goals2=>1, :matchwinratio1=>0.47, :matchwinratio2=>0.53, :winner=>"tie"}
+{:country1=>"Iran", :country2=>"Australia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.489, :matchwinratio2=>0.511, :winner=>"tie"}
+{:country1=>"Iran", :country2=>"Ghana", :goals1=>1, :goals2=>1, :matchwinratio1=>0.522, :matchwinratio2=>0.478, :winner=>"tie"}
+{:country1=>"Iran", :country2=>"South Korea", :goals1=>1, :goals2=>1, :matchwinratio1=>0.567, :matchwinratio2=>0.433, :winner=>"tie"}
+{:country1=>"Iran", :country2=>"Honduras", :goals1=>2, :goals2=>1, :matchwinratio1=>0.699, :matchwinratio2=>0.301, :winner=>"Iran"}
+{:country1=>"Iran", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.93, :matchwinratio2=>0.07, :winner=>"Iran"}
+{:country1=>"Iran", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Iran"}
+{:country1=>"Ghana", :country2=>"Brazil", :goals1=>0, :goals2=>2, :matchwinratio1=>0.143, :matchwinratio2=>0.857, :winner=>"Brazil"}
+{:country1=>"Ghana", :country2=>"Spain", :goals1=>0, :goals2=>2, :matchwinratio1=>0.149, :matchwinratio2=>0.851, :winner=>"Spain"}
+{:country1=>"Ghana", :country2=>"Germany", :goals1=>0, :goals2=>2, :matchwinratio1=>0.161, :matchwinratio2=>0.839, :winner=>"Germany"}
+{:country1=>"Ghana", :country2=>"Argentina", :goals1=>0, :goals2=>2, :matchwinratio1=>0.18, :matchwinratio2=>0.82, :winner=>"Argentina"}
+{:country1=>"Ghana", :country2=>"Netherlands", :goals1=>0, :goals2=>2, :matchwinratio1=>0.192, :matchwinratio2=>0.808, :winner=>"Netherlands"}
+{:country1=>"Ghana", :country2=>"England", :goals1=>0, :goals2=>2, :matchwinratio1=>0.214, :matchwinratio2=>0.786, :winner=>"England"}
+{:country1=>"Ghana", :country2=>"Portugal", :goals1=>1, :goals2=>2, :matchwinratio1=>0.221, :matchwinratio2=>0.779, :winner=>"Portugal"}
+{:country1=>"Ghana", :country2=>"Colombia", :goals1=>1, :goals2=>2, :matchwinratio1=>0.224, :matchwinratio2=>0.776, :winner=>"Colombia"}
+{:country1=>"Ghana", :country2=>"Uruguay", :goals1=>1, :goals2=>2, :matchwinratio1=>0.225, :matchwinratio2=>0.775, :winner=>"Uruguay"}
+{:country1=>"Ghana", :country2=>"Chile", :goals1=>1, :goals2=>2, :matchwinratio1=>0.225, :matchwinratio2=>0.775, :winner=>"Chile"}
+{:country1=>"Ghana", :country2=>"Italy", :goals1=>1, :goals2=>2, :matchwinratio1=>0.235, :matchwinratio2=>0.765, :winner=>"Italy"}
+{:country1=>"Ghana", :country2=>"France", :goals1=>1, :goals2=>2, :matchwinratio1=>0.241, :matchwinratio2=>0.759, :winner=>"France"}
+{:country1=>"Ghana", :country2=>"United States", :goals1=>1, :goals2=>2, :matchwinratio1=>0.27, :matchwinratio2=>0.73, :winner=>"United States"}
+{:country1=>"Ghana", :country2=>"Belgium", :goals1=>1, :goals2=>2, :matchwinratio1=>0.277, :matchwinratio2=>0.723, :winner=>"Belgium"}
+{:country1=>"Ghana", :country2=>"Russia", :goals1=>1, :goals2=>2, :matchwinratio1=>0.28, :matchwinratio2=>0.72, :winner=>"Russia"}
+{:country1=>"Ghana", :country2=>"Mexico", :goals1=>1, :goals2=>2, :matchwinratio1=>0.281, :matchwinratio2=>0.719, :winner=>"Mexico"}
+{:country1=>"Ghana", :country2=>"Switzerland", :goals1=>1, :goals2=>2, :matchwinratio1=>0.281, :matchwinratio2=>0.719, :winner=>"Switzerland"}
+{:country1=>"Ghana", :country2=>"Ecuador", :goals1=>1, :goals2=>2, :matchwinratio1=>0.287, :matchwinratio2=>0.713, :winner=>"Ecuador"}
+{:country1=>"Ghana", :country2=>"Greece", :goals1=>1, :goals2=>2, :matchwinratio1=>0.305, :matchwinratio2=>0.695, :winner=>"Greece"}
+{:country1=>"Ghana", :country2=>"Croatia", :goals1=>1, :goals2=>2, :matchwinratio1=>0.315, :matchwinratio2=>0.685, :winner=>"Croatia"}
+{:country1=>"Ghana", :country2=>"Ivory Coast", :goals1=>1, :goals2=>2, :matchwinratio1=>0.326, :matchwinratio2=>0.674, :winner=>"Ivory Coast"}
+{:country1=>"Ghana", :country2=>"Japan", :goals1=>1, :goals2=>1, :matchwinratio1=>0.36, :matchwinratio2=>0.64, :winner=>"tie"}
+{:country1=>"Ghana", :country2=>"Bosnia and Herzegovina", :goals1=>1, :goals2=>1, :matchwinratio1=>0.363, :matchwinratio2=>0.637, :winner=>"tie"}
+{:country1=>"Ghana", :country2=>"Nigeria", :goals1=>1, :goals2=>1, :matchwinratio1=>0.421, :matchwinratio2=>0.579, :winner=>"tie"}
+{:country1=>"Ghana", :country2=>"Costa Rica", :goals1=>1, :goals2=>1, :matchwinratio1=>0.447, :matchwinratio2=>0.553, :winner=>"tie"}
+{:country1=>"Ghana", :country2=>"Australia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.467, :matchwinratio2=>0.533, :winner=>"tie"}
+{:country1=>"Ghana", :country2=>"Iran", :goals1=>1, :goals2=>1, :matchwinratio1=>0.478, :matchwinratio2=>0.522, :winner=>"tie"}
+{:country1=>"Ghana", :country2=>"South Korea", :goals1=>1, :goals2=>1, :matchwinratio1=>0.545, :matchwinratio2=>0.455, :winner=>"tie"}
+{:country1=>"Ghana", :country2=>"Honduras", :goals1=>2, :goals2=>1, :matchwinratio1=>0.68, :matchwinratio2=>0.32, :winner=>"Ghana"}
+{:country1=>"Ghana", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.924, :matchwinratio2=>0.076, :winner=>"Ghana"}
+{:country1=>"Ghana", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Ghana"}
+{:country1=>"South Korea", :country2=>"Brazil", :goals1=>0, :goals2=>2, :matchwinratio1=>0.122, :matchwinratio2=>0.878, :winner=>"Brazil"}
+{:country1=>"South Korea", :country2=>"Spain", :goals1=>0, :goals2=>2, :matchwinratio1=>0.128, :matchwinratio2=>0.872, :winner=>"Spain"}
+{:country1=>"South Korea", :country2=>"Germany", :goals1=>0, :goals2=>2, :matchwinratio1=>0.138, :matchwinratio2=>0.862, :winner=>"Germany"}
+{:country1=>"South Korea", :country2=>"Argentina", :goals1=>0, :goals2=>2, :matchwinratio1=>0.155, :matchwinratio2=>0.845, :winner=>"Argentina"}
+{:country1=>"South Korea", :country2=>"Netherlands", :goals1=>0, :goals2=>2, :matchwinratio1=>0.166, :matchwinratio2=>0.834, :winner=>"Netherlands"}
+{:country1=>"South Korea", :country2=>"England", :goals1=>0, :goals2=>2, :matchwinratio1=>0.185, :matchwinratio2=>0.815, :winner=>"England"}
+{:country1=>"South Korea", :country2=>"Portugal", :goals1=>0, :goals2=>2, :matchwinratio1=>0.191, :matchwinratio2=>0.809, :winner=>"Portugal"}
+{:country1=>"South Korea", :country2=>"Colombia", :goals1=>0, :goals2=>2, :matchwinratio1=>0.194, :matchwinratio2=>0.806, :winner=>"Colombia"}
+{:country1=>"South Korea", :country2=>"Uruguay", :goals1=>0, :goals2=>2, :matchwinratio1=>0.195, :matchwinratio2=>0.805, :winner=>"Uruguay"}
+{:country1=>"South Korea", :country2=>"Chile", :goals1=>0, :goals2=>2, :matchwinratio1=>0.195, :matchwinratio2=>0.805, :winner=>"Chile"}
+{:country1=>"South Korea", :country2=>"Italy", :goals1=>0, :goals2=>2, :matchwinratio1=>0.204, :matchwinratio2=>0.796, :winner=>"Italy"}
+{:country1=>"South Korea", :country2=>"France", :goals1=>0, :goals2=>2, :matchwinratio1=>0.21, :matchwinratio2=>0.79, :winner=>"France"}
+{:country1=>"South Korea", :country2=>"United States", :goals1=>1, :goals2=>2, :matchwinratio1=>0.236, :matchwinratio2=>0.764, :winner=>"United States"}
+{:country1=>"South Korea", :country2=>"Belgium", :goals1=>1, :goals2=>2, :matchwinratio1=>0.242, :matchwinratio2=>0.758, :winner=>"Belgium"}
+{:country1=>"South Korea", :country2=>"Russia", :goals1=>1, :goals2=>2, :matchwinratio1=>0.245, :matchwinratio2=>0.755, :winner=>"Russia"}
+{:country1=>"South Korea", :country2=>"Mexico", :goals1=>1, :goals2=>2, :matchwinratio1=>0.246, :matchwinratio2=>0.754, :winner=>"Mexico"}
+{:country1=>"South Korea", :country2=>"Switzerland", :goals1=>1, :goals2=>2, :matchwinratio1=>0.246, :matchwinratio2=>0.754, :winner=>"Switzerland"}
+{:country1=>"South Korea", :country2=>"Ecuador", :goals1=>1, :goals2=>2, :matchwinratio1=>0.252, :matchwinratio2=>0.748, :winner=>"Ecuador"}
+{:country1=>"South Korea", :country2=>"Greece", :goals1=>1, :goals2=>2, :matchwinratio1=>0.268, :matchwinratio2=>0.732, :winner=>"Greece"}
+{:country1=>"South Korea", :country2=>"Croatia", :goals1=>1, :goals2=>2, :matchwinratio1=>0.277, :matchwinratio2=>0.723, :winner=>"Croatia"}
+{:country1=>"South Korea", :country2=>"Ivory Coast", :goals1=>1, :goals2=>2, :matchwinratio1=>0.287, :matchwinratio2=>0.713, :winner=>"Ivory Coast"}
+{:country1=>"South Korea", :country2=>"Japan", :goals1=>1, :goals2=>2, :matchwinratio1=>0.32, :matchwinratio2=>0.68, :winner=>"Japan"}
+{:country1=>"South Korea", :country2=>"Bosnia and Herzegovina", :goals1=>1, :goals2=>2, :matchwinratio1=>0.323, :matchwinratio2=>0.677, :winner=>"Bosnia and Herzegovina"}
+{:country1=>"South Korea", :country2=>"Nigeria", :goals1=>1, :goals2=>1, :matchwinratio1=>0.378, :matchwinratio2=>0.622, :winner=>"tie"}
+{:country1=>"South Korea", :country2=>"Costa Rica", :goals1=>1, :goals2=>1, :matchwinratio1=>0.403, :matchwinratio2=>0.597, :winner=>"tie"}
+{:country1=>"South Korea", :country2=>"Australia", :goals1=>1, :goals2=>1, :matchwinratio1=>0.423, :matchwinratio2=>0.577, :winner=>"tie"}
+{:country1=>"South Korea", :country2=>"Iran", :goals1=>1, :goals2=>1, :matchwinratio1=>0.433, :matchwinratio2=>0.567, :winner=>"tie"}
+{:country1=>"South Korea", :country2=>"Ghana", :goals1=>1, :goals2=>1, :matchwinratio1=>0.455, :matchwinratio2=>0.545, :winner=>"tie"}
+{:country1=>"South Korea", :country2=>"Honduras", :goals1=>1, :goals2=>1, :matchwinratio1=>0.64, :matchwinratio2=>0.36, :winner=>"tie"}
+{:country1=>"South Korea", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.91, :matchwinratio2=>0.09, :winner=>"South Korea"}
+{:country1=>"South Korea", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"South Korea"}
+{:country1=>"Honduras", :country2=>"Brazil", :goals1=>0, :goals2=>2, :matchwinratio1=>0.073, :matchwinratio2=>0.927, :winner=>"Brazil"}
+{:country1=>"Honduras", :country2=>"Spain", :goals1=>0, :goals2=>2, :matchwinratio1=>0.076, :matchwinratio2=>0.924, :winner=>"Spain"}
+{:country1=>"Honduras", :country2=>"Germany", :goals1=>0, :goals2=>2, :matchwinratio1=>0.083, :matchwinratio2=>0.917, :winner=>"Germany"}
+{:country1=>"Honduras", :country2=>"Argentina", :goals1=>0, :goals2=>2, :matchwinratio1=>0.094, :matchwinratio2=>0.906, :winner=>"Argentina"}
+{:country1=>"Honduras", :country2=>"Netherlands", :goals1=>0, :goals2=>2, :matchwinratio1=>0.101, :matchwinratio2=>0.899, :winner=>"Netherlands"}
+{:country1=>"Honduras", :country2=>"England", :goals1=>0, :goals2=>2, :matchwinratio1=>0.114, :matchwinratio2=>0.886, :winner=>"England"}
+{:country1=>"Honduras", :country2=>"Portugal", :goals1=>0, :goals2=>2, :matchwinratio1=>0.118, :matchwinratio2=>0.882, :winner=>"Portugal"}
+{:country1=>"Honduras", :country2=>"Colombia", :goals1=>0, :goals2=>2, :matchwinratio1=>0.119, :matchwinratio2=>0.881, :winner=>"Colombia"}
+{:country1=>"Honduras", :country2=>"Uruguay", :goals1=>0, :goals2=>2, :matchwinratio1=>0.12, :matchwinratio2=>0.88, :winner=>"Uruguay"}
+{:country1=>"Honduras", :country2=>"Chile", :goals1=>0, :goals2=>2, :matchwinratio1=>0.12, :matchwinratio2=>0.88, :winner=>"Chile"}
+{:country1=>"Honduras", :country2=>"Italy", :goals1=>0, :goals2=>2, :matchwinratio1=>0.126, :matchwinratio2=>0.874, :winner=>"Italy"}
+{:country1=>"Honduras", :country2=>"France", :goals1=>0, :goals2=>2, :matchwinratio1=>0.13, :matchwinratio2=>0.87, :winner=>"France"}
+{:country1=>"Honduras", :country2=>"United States", :goals1=>0, :goals2=>2, :matchwinratio1=>0.148, :matchwinratio2=>0.852, :winner=>"United States"}
+{:country1=>"Honduras", :country2=>"Belgium", :goals1=>0, :goals2=>2, :matchwinratio1=>0.153, :matchwinratio2=>0.847, :winner=>"Belgium"}
+{:country1=>"Honduras", :country2=>"Russia", :goals1=>0, :goals2=>2, :matchwinratio1=>0.154, :matchwinratio2=>0.846, :winner=>"Russia"}
+{:country1=>"Honduras", :country2=>"Mexico", :goals1=>0, :goals2=>2, :matchwinratio1=>0.155, :matchwinratio2=>0.845, :winner=>"Mexico"}
+{:country1=>"Honduras", :country2=>"Switzerland", :goals1=>0, :goals2=>2, :matchwinratio1=>0.155, :matchwinratio2=>0.845, :winner=>"Switzerland"}
+{:country1=>"Honduras", :country2=>"Ecuador", :goals1=>0, :goals2=>2, :matchwinratio1=>0.159, :matchwinratio2=>0.841, :winner=>"Ecuador"}
+{:country1=>"Honduras", :country2=>"Greece", :goals1=>0, :goals2=>2, :matchwinratio1=>0.171, :matchwinratio2=>0.829, :winner=>"Greece"}
+{:country1=>"Honduras", :country2=>"Croatia", :goals1=>0, :goals2=>2, :matchwinratio1=>0.178, :matchwinratio2=>0.822, :winner=>"Croatia"}
+{:country1=>"Honduras", :country2=>"Ivory Coast", :goals1=>0, :goals2=>2, :matchwinratio1=>0.185, :matchwinratio2=>0.815, :winner=>"Ivory Coast"}
+{:country1=>"Honduras", :country2=>"Japan", :goals1=>0, :goals2=>2, :matchwinratio1=>0.209, :matchwinratio2=>0.791, :winner=>"Japan"}
+{:country1=>"Honduras", :country2=>"Bosnia and Herzegovina", :goals1=>0, :goals2=>2, :matchwinratio1=>0.212, :matchwinratio2=>0.788, :winner=>"Bosnia and Herzegovina"}
+{:country1=>"Honduras", :country2=>"Nigeria", :goals1=>1, :goals2=>2, :matchwinratio1=>0.255, :matchwinratio2=>0.745, :winner=>"Nigeria"}
+{:country1=>"Honduras", :country2=>"Costa Rica", :goals1=>1, :goals2=>2, :matchwinratio1=>0.276, :matchwinratio2=>0.724, :winner=>"Costa Rica"}
+{:country1=>"Honduras", :country2=>"Australia", :goals1=>1, :goals2=>2, :matchwinratio1=>0.292, :matchwinratio2=>0.708, :winner=>"Australia"}
+{:country1=>"Honduras", :country2=>"Iran", :goals1=>1, :goals2=>2, :matchwinratio1=>0.301, :matchwinratio2=>0.699, :winner=>"Iran"}
+{:country1=>"Honduras", :country2=>"Ghana", :goals1=>1, :goals2=>2, :matchwinratio1=>0.32, :matchwinratio2=>0.68, :winner=>"Ghana"}
+{:country1=>"Honduras", :country2=>"South Korea", :goals1=>1, :goals2=>1, :matchwinratio1=>0.36, :matchwinratio2=>0.64, :winner=>"tie"}
+{:country1=>"Honduras", :country2=>"Algeria", :goals1=>2, :goals2=>0, :matchwinratio1=>0.851, :matchwinratio2=>0.149, :winner=>"Honduras"}
+{:country1=>"Honduras", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Honduras"}
+{:country1=>"Algeria", :country2=>"Brazil", :goals1=>0, :goals2=>2, :matchwinratio1=>0.014, :matchwinratio2=>0.986, :winner=>"Brazil"}
+{:country1=>"Algeria", :country2=>"Spain", :goals1=>0, :goals2=>2, :matchwinratio1=>0.014, :matchwinratio2=>0.986, :winner=>"Spain"}
+{:country1=>"Algeria", :country2=>"Germany", :goals1=>0, :goals2=>2, :matchwinratio1=>0.016, :matchwinratio2=>0.984, :winner=>"Germany"}
+{:country1=>"Algeria", :country2=>"Argentina", :goals1=>0, :goals2=>2, :matchwinratio1=>0.018, :matchwinratio2=>0.982, :winner=>"Argentina"}
+{:country1=>"Algeria", :country2=>"Netherlands", :goals1=>0, :goals2=>2, :matchwinratio1=>0.019, :matchwinratio2=>0.981, :winner=>"Netherlands"}
+{:country1=>"Algeria", :country2=>"England", :goals1=>0, :goals2=>2, :matchwinratio1=>0.022, :matchwinratio2=>0.978, :winner=>"England"}
+{:country1=>"Algeria", :country2=>"Portugal", :goals1=>0, :goals2=>2, :matchwinratio1=>0.023, :matchwinratio2=>0.977, :winner=>"Portugal"}
+{:country1=>"Algeria", :country2=>"Colombia", :goals1=>0, :goals2=>2, :matchwinratio1=>0.023, :matchwinratio2=>0.977, :winner=>"Colombia"}
+{:country1=>"Algeria", :country2=>"Uruguay", :goals1=>0, :goals2=>2, :matchwinratio1=>0.023, :matchwinratio2=>0.977, :winner=>"Uruguay"}
+{:country1=>"Algeria", :country2=>"Chile", :goals1=>0, :goals2=>2, :matchwinratio1=>0.023, :matchwinratio2=>0.977, :winner=>"Chile"}
+{:country1=>"Algeria", :country2=>"Italy", :goals1=>0, :goals2=>2, :matchwinratio1=>0.025, :matchwinratio2=>0.975, :winner=>"Italy"}
+{:country1=>"Algeria", :country2=>"France", :goals1=>0, :goals2=>2, :matchwinratio1=>0.026, :matchwinratio2=>0.974, :winner=>"France"}
+{:country1=>"Algeria", :country2=>"United States", :goals1=>0, :goals2=>2, :matchwinratio1=>0.03, :matchwinratio2=>0.97, :winner=>"United States"}
+{:country1=>"Algeria", :country2=>"Belgium", :goals1=>0, :goals2=>2, :matchwinratio1=>0.031, :matchwinratio2=>0.969, :winner=>"Belgium"}
+{:country1=>"Algeria", :country2=>"Russia", :goals1=>0, :goals2=>2, :matchwinratio1=>0.031, :matchwinratio2=>0.969, :winner=>"Russia"}
+{:country1=>"Algeria", :country2=>"Mexico", :goals1=>0, :goals2=>2, :matchwinratio1=>0.031, :matchwinratio2=>0.969, :winner=>"Mexico"}
+{:country1=>"Algeria", :country2=>"Switzerland", :goals1=>0, :goals2=>2, :matchwinratio1=>0.031, :matchwinratio2=>0.969, :winner=>"Switzerland"}
+{:country1=>"Algeria", :country2=>"Ecuador", :goals1=>0, :goals2=>2, :matchwinratio1=>0.032, :matchwinratio2=>0.968, :winner=>"Ecuador"}
+{:country1=>"Algeria", :country2=>"Greece", :goals1=>0, :goals2=>2, :matchwinratio1=>0.035, :matchwinratio2=>0.965, :winner=>"Greece"}
+{:country1=>"Algeria", :country2=>"Croatia", :goals1=>0, :goals2=>2, :matchwinratio1=>0.036, :matchwinratio2=>0.964, :winner=>"Croatia"}
+{:country1=>"Algeria", :country2=>"Ivory Coast", :goals1=>0, :goals2=>2, :matchwinratio1=>0.038, :matchwinratio2=>0.962, :winner=>"Ivory Coast"}
+{:country1=>"Algeria", :country2=>"Japan", :goals1=>0, :goals2=>2, :matchwinratio1=>0.044, :matchwinratio2=>0.956, :winner=>"Japan"}
+{:country1=>"Algeria", :country2=>"Bosnia and Herzegovina", :goals1=>0, :goals2=>2, :matchwinratio1=>0.045, :matchwinratio2=>0.955, :winner=>"Bosnia and Herzegovina"}
+{:country1=>"Algeria", :country2=>"Nigeria", :goals1=>0, :goals2=>2, :matchwinratio1=>0.056, :matchwinratio2=>0.944, :winner=>"Nigeria"}
+{:country1=>"Algeria", :country2=>"Costa Rica", :goals1=>0, :goals2=>2, :matchwinratio1=>0.063, :matchwinratio2=>0.938, :winner=>"Costa Rica"}
+{:country1=>"Algeria", :country2=>"Australia", :goals1=>0, :goals2=>2, :matchwinratio1=>0.067, :matchwinratio2=>0.933, :winner=>"Australia"}
+{:country1=>"Algeria", :country2=>"Iran", :goals1=>0, :goals2=>2, :matchwinratio1=>0.07, :matchwinratio2=>0.93, :winner=>"Iran"}
+{:country1=>"Algeria", :country2=>"Ghana", :goals1=>0, :goals2=>2, :matchwinratio1=>0.076, :matchwinratio2=>0.924, :winner=>"Ghana"}
+{:country1=>"Algeria", :country2=>"South Korea", :goals1=>0, :goals2=>2, :matchwinratio1=>0.09, :matchwinratio2=>0.91, :winner=>"South Korea"}
+{:country1=>"Algeria", :country2=>"Honduras", :goals1=>0, :goals2=>2, :matchwinratio1=>0.149, :matchwinratio2=>0.851, :winner=>"Honduras"}
+{:country1=>"Algeria", :country2=>"Cameroon", :goals1=>2, :goals2=>0, :matchwinratio1=>1.0, :matchwinratio2=>0.0, :winner=>"Algeria"}
+{:country1=>"Cameroon", :country2=>"Brazil", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Brazil"}
+{:country1=>"Cameroon", :country2=>"Spain", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Spain"}
+{:country1=>"Cameroon", :country2=>"Germany", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Germany"}
+{:country1=>"Cameroon", :country2=>"Argentina", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Argentina"}
+{:country1=>"Cameroon", :country2=>"Netherlands", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Netherlands"}
+{:country1=>"Cameroon", :country2=>"England", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"England"}
+{:country1=>"Cameroon", :country2=>"Portugal", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Portugal"}
+{:country1=>"Cameroon", :country2=>"Colombia", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Colombia"}
+{:country1=>"Cameroon", :country2=>"Uruguay", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Uruguay"}
+{:country1=>"Cameroon", :country2=>"Chile", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Chile"}
+{:country1=>"Cameroon", :country2=>"Italy", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Italy"}
+{:country1=>"Cameroon", :country2=>"France", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"France"}
+{:country1=>"Cameroon", :country2=>"United States", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"United States"}
+{:country1=>"Cameroon", :country2=>"Belgium", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Belgium"}
+{:country1=>"Cameroon", :country2=>"Russia", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Russia"}
+{:country1=>"Cameroon", :country2=>"Mexico", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Mexico"}
+{:country1=>"Cameroon", :country2=>"Switzerland", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Switzerland"}
+{:country1=>"Cameroon", :country2=>"Ecuador", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Ecuador"}
+{:country1=>"Cameroon", :country2=>"Greece", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Greece"}
+{:country1=>"Cameroon", :country2=>"Croatia", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Croatia"}
+{:country1=>"Cameroon", :country2=>"Ivory Coast", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Ivory Coast"}
+{:country1=>"Cameroon", :country2=>"Japan", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Japan"}
+{:country1=>"Cameroon", :country2=>"Bosnia and Herzegovina", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Bosnia and Herzegovina"}
+{:country1=>"Cameroon", :country2=>"Nigeria", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Nigeria"}
+{:country1=>"Cameroon", :country2=>"Costa Rica", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Costa Rica"}
+{:country1=>"Cameroon", :country2=>"Australia", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Australia"}
+{:country1=>"Cameroon", :country2=>"Iran", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Iran"}
+{:country1=>"Cameroon", :country2=>"Ghana", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Ghana"}
+{:country1=>"Cameroon", :country2=>"South Korea", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"South Korea"}
+{:country1=>"Cameroon", :country2=>"Honduras", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Honduras"}
+{:country1=>"Cameroon", :country2=>"Algeria", :goals1=>0, :goals2=>2, :matchwinratio1=>0.0, :matchwinratio2=>1.0, :winner=>"Algeria"}

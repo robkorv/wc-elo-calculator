@@ -56,8 +56,53 @@ class Elocalculator
   def read_values
     @found_html.css('tr:not([class])').each do |item|
       country   = item.css('a').inner_text.strip
-      eloscore = item.css('td')[3].inner_text.strip.to_i
-      @elo_hash.store(country, eloscore)
+      rating = item.css('td')[3].inner_text.strip.to_i
+      @elo_hash.store(country, rating)
+    end
+  end
+
+  ##
+  # highest in hash
+  def highest
+    @elo_hash.max_by { | _country, rating | rating }
+  end
+
+  ##
+  # lowest in hash
+  def lowest
+    @elo_hash.min_by { | _country, rating | rating }
+  end
+
+  ##
+  # max_difference
+  def max_difference
+    highest[1] - lowest[1]
+  end
+
+  ##
+  # calculate winner
+  def calculate_match(country1, country2)
+    diff1 = elo_hash[country1] - lowest[1]
+    diff2 = elo_hash[country2] - lowest[1]
+    cupwinratio1 = diff1.to_f / max_difference.to_f
+    cupwinratio2 = diff2.to_f / max_difference.to_f
+    goals1 = (cupwinratio1 / (cupwinratio1 + cupwinratio2) * avg_goals).round
+    goals2 = (cupwinratio2 / (cupwinratio1 + cupwinratio2) * avg_goals).round
+    { country1: country1, country2: country2, goals1: goals1, goals2: goals2,
+      matchwinratio1: (cupwinratio1 / (cupwinratio1 + cupwinratio2)).round(3),
+      matchwinratio2: (cupwinratio2 / (cupwinratio1 + cupwinratio2)).round(3),
+      winner: get_winner(goals1, goals2, country1, country2) }
+  end
+
+  ##
+  # get winner
+  def get_winner(goals1, goals2, country1, country2)
+    if goals1 == goals2
+      'tie'
+    elsif goals1 < goals2
+      country2
+    else
+      country1
     end
   end
 end
